@@ -10,11 +10,14 @@ From Clean Ideas to smell and legacy Code.... About Modularity in practie
   + principles
   + patterns
   + ...
+    
 ![obraz](https://github.com/tom-sapletta-com/clean-code/assets/5669657/96c736d2-a189-4894-9a1a-cfdf79232bfd)
 
   
 + no one expects the spanish inquisition
+  
 ![obraz](https://github.com/tom-sapletta-com/clean-code/assets/5669657/a821aa30-4f5a-4a9e-b0ff-b10ec911f670)
+
 
 
 ## Code Reality
@@ -26,3 +29,10 @@ From Clean Ideas to smell and legacy Code.... About Modularity in practie
 
 
 ## The Pragmatic Programmer
+
+development = coding + creativity
+
++ management over coding
++ standardization over creativity
+
+
