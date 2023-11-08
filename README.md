@@ -1,6 +1,6 @@
 # Modular Code
 
-From Clean Ideas to smell and legacy Code.... About Modularity in practie
+From #clean ideas to code #smells and #legacy code ... Let's talk about modularity in practice
 
 ## Code Expectations
 
