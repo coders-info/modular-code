@@ -28,11 +28,13 @@ From Clean Ideas to smell and legacy Code.... About Modularity in practie
 + ...
 
 
-## The Pragmatic Programmer
 
-development = coding + creativity
+## The Pragmatic Development
 
-+ management over coding
-+ standardization over creativity
+development => production of code to implement services based on requirements.
+
++ management over production 
++ standardization over coding
++ requirements over expectations
 
 
