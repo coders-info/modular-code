@@ -6,8 +6,8 @@ From Clean Ideas to smell and legacy Code.... About Modularity in practie
 
 + everyone expect:
   + clean code
-  + principles
   + patterns
+  + KISS
   + ...
     
 ![obraz](https://github.com/tom-sapletta-com/clean-code/assets/5669657/96c736d2-a189-4894-9a1a-cfdf79232bfd)
