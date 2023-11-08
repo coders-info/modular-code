@@ -42,6 +42,7 @@ Source-code:
 + writing over refactoring code
 
 Data:
++ data standardization first
 + fat-data over fat-function
-+ standardization of data first
+
 
