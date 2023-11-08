@@ -1,10 +1,11 @@
-# clean-code
+# Modular Principles
 
 From Clean Ideas to smell and legacy Code.... About Modularity in practie
 
 ## Code Expectations
 
-+ everyone expect clean code
++ everyone expect:
+  + clean code
   + principles
   + patterns
   + ...
