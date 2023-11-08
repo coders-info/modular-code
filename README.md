@@ -1,6 +1,6 @@
 # Modular Code
 
-From #clean ideas to code #smells and #legacy code ... Let's talk about modularity in practice
+From #clean ideas to code #smells ... Let's talk about The Pragmatic Development based on Hypermodularity
 
 ## Code Expectations
 https://en.wikipedia.org/wiki/SOLID
@@ -22,9 +22,9 @@ https://en.wikipedia.org/wiki/SOLID
 
 ## Code Reality
 
-+ [legacy code](https://en.wikipedia.org/wiki/Legacy_system)
-+ [spaghetti code](https://en.wikipedia.org/wiki/Spaghetti_code)
-+ [smells code](https://en.wikipedia.org/wiki/Code_smell)
++ [Legacy Code](https://en.wikipedia.org/wiki/Legacy_system)
++ [Spaghetti Code](https://en.wikipedia.org/wiki/Spaghetti_code)
++ [Code Smell](https://en.wikipedia.org/wiki/Code_smell)
 + ...
 
 
