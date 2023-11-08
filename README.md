@@ -33,15 +33,15 @@ From Clean Ideas to smell and legacy Code.... About Modularity in practie
 
 development => production of code to implement services based on requirements.
 
-Development
+Environment:
 + management over production
 + requirements over expectations
 
-Code  
+Source-code:
 + reusability over creativity
 + writing over refactoring code
 
-Data
+Data:
 + fat-data over fat-function
 + standardization of data first
 
