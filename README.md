@@ -14,7 +14,8 @@ From Clean Ideas to smell and legacy Code.... About Modularity in practie
   
 + no one expects the spanish inquisition
   
-![obraz](https://github.com/tom-sapletta-com/clean-code/assets/5669657/a821aa30-4f5a-4a9e-b0ff-b10ec911f670)
+
+![obraz](https://github.com/tom-sapletta-com/clean-code/assets/5669657/fe601411-dcd3-43a3-a146-d8e136c57e54)
 
 
 
