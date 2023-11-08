@@ -1,4 +1,4 @@
-# Modular Principles
+# Modular Code
 
 From Clean Ideas to smell and legacy Code.... About Modularity in practie
 
