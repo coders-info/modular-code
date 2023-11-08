@@ -48,11 +48,24 @@ Data:
 
 ## Hypermodularity
 
+Hypermodularity is not about writing, but about reusing code in a network of dependencies
+
+Hypermodularity shifts the burden of programming from development to management and from programming to defining services based on available code and data.
+
+The smallest element of a modular network is one running service that can be written or reused thanks to successive modular building blocks of reusable code.
+
+
+This is the hyper modular network of atomic code...
+
+
+## Theory
+
 Hypermodularity refers to an advanced or extreme degree of modularity in the design and organization of systems, products, technologies, or processes. 
 Modularity itself is a design principle that involves creating complex systems from smaller, manageable, interchangeable, and often standardized parts or modules.
 The hypermodularity concept is taken to a higher level, where the modularity is exceptionally pronounced, allowing for even greater flexibility, customization, interchangeability, and scalability. 
- 
-Here are a few contexts where hypermodularity might be relevant:
+
+
+## Contexts
 
 + **Technology and Computing**: In software development, a hypermodular architecture would allow for easier updates, maintenance, and scale, as individual modules or components can be modified or replaced without impacting the entire system.
 
@@ -63,6 +76,7 @@ Here are a few contexts where hypermodularity might be relevant:
 + **Organizational Structures**: In management, a hypermodular organizational structure would reflect a highly flexible and adaptable model where teams or units can be formed, reformed, and disbanded as needed to respond to various projects and challenges.
 
 
-Hypermodularity is often associated with terms like agility, resilience, and innovation, as it provides a framework for easily adapting to change and fostering continuous improvement. 
+## Disadvantages 
 
-However, hypermodularity can also have drawbacks, such as potential issues with integration, increased complexity in coordination, or loss of optimization for specific functions due to the emphasis on general interchangeability.
+Hypermodularity is often associated with terms like agility, resilience, and innovation, as it provides a framework for easily adapting to change and fostering continuous improvement. 
+Depending on the context of use, hypermodularity can also have drawbacks, such as potential issues with integration, increased complexity in coordination, or loss of optimization for specific functions due to the emphasis on general interchangeability.
