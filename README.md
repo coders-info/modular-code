@@ -55,7 +55,7 @@ Hypermodularity shifts the burden of programming from development to management 
 The smallest element of a modular network is one running service that can be written or reused thanks to successive modular building blocks of reusable code.
 
 
-This is the hyper modular network of atomic code...
+This is the hyper modular network of code ...
 
 
 ## Theory
