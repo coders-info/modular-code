@@ -3,11 +3,11 @@
 From #clean ideas to code #smells and #legacy code ... Let's talk about modularity in practice
 
 ## Code Expectations
-
+https://en.wikipedia.org/wiki/SOLID
 + everyone expect:
-  + clean code
-  + patterns
-  + KISS
+  + [clean code](https://en.wikipedia.org/wiki/SOLID)
+  + [patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
+  + [KISS](https://en.wikipedia.org/wiki/KISS_principle)
   + ...
     
 ![obraz](https://github.com/tom-sapletta-com/clean-code/assets/5669657/96c736d2-a189-4894-9a1a-cfdf79232bfd)
@@ -22,9 +22,9 @@ From #clean ideas to code #smells and #legacy code ... Let's talk about modulari
 
 ## Code Reality
 
-+ legacy code
-+ spaghetti code
-+ smells code
++ [legacy code](https://en.wikipedia.org/wiki/Legacy_system)
++ [spaghetti code](https://en.wikipedia.org/wiki/Spaghetti_code)
++ [smells code](https://en.wikipedia.org/wiki/Code_smell)
 + ...
 
 
@@ -80,3 +80,8 @@ The hypermodularity concept is taken to a higher level, where the modularity is 
 
 Hypermodularity is often associated with terms like agility, resilience, and innovation, as it provides a framework for easily adapting to change and fostering continuous improvement. 
 Depending on the context of use, hypermodularity can also have drawbacks, such as potential issues with integration, increased complexity in coordination, or loss of optimization for specific functions due to the emphasis on general interchangeability.
+
+## Use Case
+
++ [resuable, modular hardware - Militarity](https://www.militarity.com/)
++ [Reusable services based on DNS records - Dynapsys](http://www.dynapsys.com)
