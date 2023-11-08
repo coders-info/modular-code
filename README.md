@@ -1,7 +1,5 @@
 # clean-code
 
-## About
-
 From Clean Ideas to smell and legacy Code.... About Modularity in practie
 
 ## Code Expectations
