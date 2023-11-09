@@ -83,5 +83,6 @@ Depending on the context of use, hypermodularity can also have drawbacks, such a
 
 ## Use Case
 
-+ [resuable, modular hardware - Militarity](https://www.militarity.com/)
++ resuable, modular hardware [Modular Edge Computing Hardware - Militarity](https://www.militarity.com/)
++ modular data storage [NDOF - Newline Delimited Objects Format - www.ndof.org | www](https://www.ndof.org/)
 + [Reusable services based on DNS records - Dynapsys](http://www.dynapsys.com)
