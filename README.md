@@ -85,4 +85,4 @@ Depending on the context of use, hypermodularity can also have drawbacks, such a
 
 + resuable, modular hardware [Modular Edge Computing Hardware - Militarity](https://www.militarity.com/)
 + modular data storage [Newline Delimited Objects Format - NDOF.org](https://www.ndof.org/)
-+ reusable modular netowrk of services based on DNS records configuration [Dynamic Infrastructure for networks of Services - Dynapsys](http://www.dynapsys.com)
++ modular network of services based on DNS records configuration [Dynamic Infrastructure for networks of Services - Dynapsys](http://www.dynapsys.com)
