@@ -166,11 +166,10 @@ By assembling full SSP stations from a large amount of identical elements, produ
   + DialogSync.com
 
 
-### Modular resource loading standard
+### Resource loading standard
 
-+ [webstream.dev](https://www.webstream.dev/#/)
- 
-Web Stream Dev is a modular loading standard that enables the implementation of streaming via HTTP for:
+[webstream.dev](https://www.webstream.dev/#/) is a modular loading standard that enables the implementation of streaming via HTTP for:
+
 + content
 + media
 + documents
