@@ -54,7 +54,9 @@ development => production of code to implement services based on requirements.
 
 Hypermodularity is not about writing, but about reusing code in a network of dependencies
 
-Hypermodularity shifts the burden of programming from development to management and from programming to defining services based on available code and data.
+Hypermodularity shifts the burden of programming:
++ from development to management
++ from programming to defining services based on available source-code and data
 
 The smallest element of a modular network is one running service that can be written or reused thanks to successive modular building blocks of reusable code.
 
