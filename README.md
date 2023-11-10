@@ -143,7 +143,7 @@ Here’s how each of the mentioned principle fits into modular programming:
 
 ### Modular edge computing
 
-By combining that 3 layers: **hardware**, software with network of **services** and **data**, we can achieve scalable edge computing:
+By combining that 3 layers: **hardware**, software with network of **services** and **data**, can be achieved modular edge computing:
 + modular **hardware** [Modular Edge Computing Hardware - Militarity](https://www.militarity.com/)
 + modular **data** storage on one file [Newline Delimited Objects Format - NDOF.org](https://www.ndof.org/)
 + modular network **services** [dynamic infrastructure of services based on DNS  - Dynapsys](http://www.dynapsys.com)
