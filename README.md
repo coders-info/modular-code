@@ -139,11 +139,19 @@ Modular programming is a software design approach that focuses on breaking down 
 
 ## Use Cases
 
-By combining that 3 layers: **hardware**, software with network of **services** and **data**, we can achieve scalable edge computing
+### Scalable edge computing
 
+By combining that 3 layers: **hardware**, software with network of **services** and **data**, we can achieve scalable edge computing:
 + modular **hardware** [Modular Edge Computing Hardware - Militarity](https://www.militarity.com/)
 + modular **data** storage on one file [Newline Delimited Objects Format - NDOF.org](https://www.ndof.org/)
 + modular network **services** [dynamic infrastructure of services based on DNS  - Dynapsys](http://www.dynapsys.com)
+
+
+
+### [Hypermodular Distributed Space Solar Power (HD-SSP)](https://www.esa.int/gsp/ACT/doc/nrg/SPS%202013/EXT-RPR-1309%20Martin%20Leitgeber%20-%20IAC_SSP_Competition_2013_final092213.pdf)
+
+Hypermodularity is an attractive principle for space solar power architecture, as e.g. recently used in Ref. [5].
+By assembling full SSP stations from a large amount of identical elements, production cost are significantly de-creased and reliability of the system is increased due to fewer single points of failure
 
 
 
