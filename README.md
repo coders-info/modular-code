@@ -77,8 +77,8 @@ Modular programming is a software design approach that focuses on breaking down 
    - **How to Use:** Define clear protocols, data formats and interfaces from the beginning. When possible, stick to well-accepted industry standards and ensure that all modules comply with specific data standards.
 
 ### 6. Fat-Data over Fat-Function
-   - **Why to Use:** This principle encourages the creation of data structures with rich information content, reducing the logical complexity of functions and making the system more flexible and scalable.
-   - **How to Use:** Design your data models to be comprehensive and include all necessary information. This approach often favors object-oriented designs, where data and related behaviors are combined into objects. Make functions work on these rich data structures, which can lead to simpler and modular code.
+   - **Why to Use:** This principle encourages the creation of data structures with rich information content, reducing and moving the logical functions to interfaces and middleware
+   - **How to Use:** Design your data models to be comprehensive and include all necessary information. This approach often favors object-oriented designs, where data and related behaviors are combined into objects. Divide objects into data models that do not contain method functions and those that contain them but do not have attributes, i.e. data. Separation of data from functions facilitates expansion and does not create artificial dependencies.
 
 
 ## Hypermodularity
