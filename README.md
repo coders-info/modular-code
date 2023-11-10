@@ -31,23 +31,40 @@ From #clean ideas to code #smells ... Let's talk about The Pragmatic Development
 
 ## The Pragmatic Development
 
-development => production of code to implement services based on requirements.
-
+development = production of **code** to implement **services** based on **requirements**
 
 ![hypermodularity](https://github.com/tom-sapletta-com/modular-code/assets/5669657/87475ed6-5a5e-432a-a6e2-8174952f14d7)
 
 
-### Environment:
-+ management over production
-+ requirements over expectations
 
-### Source-code:
-+ reusability over creativity
-+ writing over refactoring code
+## Modular principles
 
-### Data:
-+ data standardization first
-+ fat-data over fat-function
+### Environment
++ **management** over production
++ **requirements** over expectations
+
+### Source-code
++ **reusability** over creativity
++ **writing** over refactoring code
+
+### Data
++ data **standardization** first
++ **fat-data** over fat-function
+
+
+### management over production
+
+### requirements over expectations
+
+
+### reusability over creativity
+
+### writing over refactoring code
+
+
+### data standardization first
+
+### fat-data over fat-function
 
 
 ## Hypermodularity
