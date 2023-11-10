@@ -3,20 +3,20 @@
 From #clean ideas to code #smells ... Let's talk about The Pragmatic Development based on Hypermodularity
 
 ## Code Expectations
-https://en.wikipedia.org/wiki/SOLID
-+ everyone expect:
+
+### everyone expect:
   + [clean code](https://en.wikipedia.org/wiki/SOLID)
   + [patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
   + [KISS](https://en.wikipedia.org/wiki/KISS_principle)
   + ...
     
-![obraz](https://github.com/tom-sapletta-com/clean-code/assets/5669657/96c736d2-a189-4894-9a1a-cfdf79232bfd)
+![KISS](https://github.com/tom-sapletta-com/clean-code/assets/5669657/96c736d2-a189-4894-9a1a-cfdf79232bfd)
 
   
-+ no one expects the spanish inquisition
+### no one expects the spanish inquisition
   
 
-![obraz](https://github.com/tom-sapletta-com/clean-code/assets/5669657/fe601411-dcd3-43a3-a146-d8e136c57e54)
+![no one expects the spanish inquisition](https://github.com/tom-sapletta-com/modular-code/assets/5669657/af423bc7-8112-4d35-8145-882f85299750)
 
 
 
