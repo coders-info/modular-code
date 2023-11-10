@@ -33,15 +33,18 @@ https://en.wikipedia.org/wiki/SOLID
 
 development => production of code to implement services based on requirements.
 
-Environment:
+![HyperModularity](https://github.com/tom-sapletta-com/modular-code/assets/5669657/3b763655-6c57-4b3c-bf56-a23f470dbdf2)
+
+
+### Environment:
 + management over production
 + requirements over expectations
 
-Source-code:
+### Source-code:
 + reusability over creativity
 + writing over refactoring code
 
-Data:
+### Data:
 + data standardization first
 + fat-data over fat-function
 
