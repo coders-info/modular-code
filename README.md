@@ -33,7 +33,8 @@ https://en.wikipedia.org/wiki/SOLID
 
 development => production of code to implement services based on requirements.
 
-![HyperModularity](https://github.com/tom-sapletta-com/modular-code/assets/5669657/3b763655-6c57-4b3c-bf56-a23f470dbdf2)
+
+![hypermodularity](https://github.com/tom-sapletta-com/modular-code/assets/5669657/87475ed6-5a5e-432a-a6e2-8174952f14d7)
 
 
 ### Environment:
