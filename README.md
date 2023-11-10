@@ -147,6 +147,14 @@ Modular programming is a software design approach that focuses on breaking down 
 
 ## Use Cases
 
-+ resuable, modular hardware [Modular Edge Computing Hardware - Militarity](https://www.militarity.com/)
-+ modular data storage [Newline Delimited Objects Format - NDOF.org](https://www.ndof.org/)
-+ modular network of services based on DNS records configuration [Dynamic Infrastructure for network of Services in SaaS - Dynapsys](http://www.dynapsys.com)
+By combining that 3 layers: **hardware**, software with network of **services** and **data**, we can achieve scalable edge computing
+
++ modular **hardware** [Modular Edge Computing Hardware - Militarity](https://www.militarity.com/)
++ modular **data** storage on one file [Newline Delimited Objects Format - NDOF.org](https://www.ndof.org/)
++ modular network **services** [dynamic infrastructure of services based on DNS  - Dynapsys](http://www.dynapsys.com)
+
+
+---
+
++ [edit](https://github.com/coders-info/www/edit/main/README.md)
++ [project][https://github.com/coders-info/]
