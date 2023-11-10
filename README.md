@@ -44,7 +44,7 @@ development = production of **code** to implement **services** based on **requir
 + **requirements** over expectations
 
 ### Source-code
-+ **reusability** over creativity
++ **reusability** over code development
 + **writing** over refactoring code
 
 ### Data
@@ -52,19 +52,33 @@ development = production of **code** to implement **services** based on **requir
 + **fat-data** over fat-function
 
 
-### management over production
+## Why and How?
 
-### requirements over expectations
+Modular programming is a software design approach that focuses on breaking down programs into independent, interchangeable modules where each contains everything necessary to execute a specific functionality. This separation simplifies complex systems, makes the code easier to manage, and promotes code reuse. Here’s how each of the principles you've mentioned fits into modular programming:
 
+### 1. Management over Production
+   - **Why to Use:** Emphasizing management over mere production ensures that codebases are well-organized and easy to navigate, making the development process more efficient and faster.
+   - **How to Use:** Employ a clear modular structure where every module has a single responsibility. Organize code repositories and document the functionalities and interfaces of each module. This not only helps in current production but also in future management and scaling of the codebase.
 
-### reusability over creativity
+### 2. Requirements over Expectations
+   - **Why to Use:** Prioritizing requirements ensures that the modules developed will meet the actual needs of the users or system, instead of being based on developers' assumptions or expectations that may not align.
+   - **How to Use:** Start with a comprehensive analysis of the requirements and use those to define the scope and design of each module. Ensure that you are creating test cases based on requirements, not expectations, to validate that the module performs as intended.
 
-### writing over refactoring code
+### 3. Reusability over Code Development
+   - **Why to Use:** A focus on reusability can substantially cut down on development time and effort, as well as reduce the chance for errors, since well-tested modules can be reused rather than rebuilt.
+   - **How to Use:** Design modules with generality and loose coupling in mind. Develop utility libraries, follow standard interfaces, and use design patterns that facilitate reuse. Ensure that the module does not depend heavily on the specific context or other modules.
 
+### 4. Writing over Refactoring Code
+   - **Why to Use:** Writing code correctly from the outset reduces the need for extensive refactoring later on, which can be resource-intensive and risky if it leads to unforeseen issues.
+   - **How to Use:** Spend more time on the design and planning phase to get a clear understanding of what’s required. Write simple, clean, and understandable code, and incorporate reviews and pair programming to catch potential issues early.
 
-### data standardization first
+### 5. Data Standardization First
+   - **Why to Use:** Standardization simplifies data interchange between modules and systems, promotes interoperability, and reduces complexity when scaling or integrating with other systems.
+   - **How to Use:** Define clear protocols, data formats, and interfaces from the beginning. Stick to well-accepted industry standards wherever possible, and ensure that all modules conform to defined data standards.
 
-### fat-data over fat-function
+### 6. Fat-Data over Fat-Function
+   - **Why to Use:** This principle encourages the creation of data structures with rich information content, reducing the logic complexity within functions, and making the system more flexible and scalable.
+   - **How to Use:** Design your data models to be comprehensive, encapsulating all the necessary information. This approach often entails favoring object-oriented designs where data and the related behaviors are bundled into objects. Make functions operate on these rich data structures, which can lead to more straightforward and modular code.
 
 
 ## Hypermodularity
@@ -82,6 +96,9 @@ This is the hyper modular network of code ...
 
 
 ## Theory
+
+
+In modular networks of code, these principles help by encouraging the development of concise, focused, and reusable modules that interact with well-defined interfaces, making the overall system robust and adaptable to change. When using these principles, developers are encouraged to be mindful of the big picture, strive for coherence in the codebase structure, and promote maintainability and scalability.
 
 Hypermodularity refers to an advanced or extreme degree of modularity in the design and organization of systems, products, technologies, or processes. 
 Modularity itself is a design principle that involves creating complex systems from smaller, manageable, interchangeable, and often standardized parts or modules.
