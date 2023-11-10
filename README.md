@@ -58,6 +58,18 @@ development = production of **code** to implement **services** based on **requir
 
 
 ![modular-code-of-network](https://github.com/coders-info/www/assets/5669657/e9588bea-6c16-455f-a829-609b6390abbd)
+This mind map starts with the central concept of Modular Code Networks and branches out into three main subtopics:
+
+
+### Core Principles
+It emphasizes the key attributes of modules in a modular code network, including being concise, focused, reusable, and having well-defined interfaces that enhance robustness and adaptability.
+
+### Expected Outcomes
+By following the modular design principles, developers should aim for the larger framework by ensuring the code structure remains consistent and the product becomes maintainable and scalable.
+
+### Hypermodularity
+Lastly, it elaborates on the concept of hypermodularity as an advanced form of modularity that offers even greater degrees of flexibility, customization, interchangeability, and scalability.
+
 
 In modular code of network, modular principles help by encouraging the development of concise, focused, and reusable modules that interact with well-defined interfaces, making the overall system robust and adaptable to changes.
 Using these principles, developers are encouraged to pay attention to the bigger picture, strive to maintain consistency in code structure, and promote maintainability and scalability.
@@ -65,17 +77,20 @@ Using these principles, developers are encouraged to pay attention to the bigger
 Hypermodularity refers to an advanced or extreme degree of modularity in the design and organization of systems, products, technologies, or processes. Modularity itself is a design principle of creating complex systems from smaller, easily managed, interchangeable and often standardized parts or modules. The concept of hypermodularity has been taken to the next level, where modularity is extremely pronounced, allowing for even greater flexibility, customization, interchangeability and scalability.
 
 
-   
+
 
 ## Hypermodularity
 
-This mind map starts with the central concept of Modular Code Networks and branches out into three main subtopics:
+Hypermodularity is not about writing, but about reusing code in a network of dependencies
 
-1. Core Principles: It emphasizes the key attributes of modules in a modular code network, including being concise, focused, reusable, and having well-defined interfaces that enhance robustness and adaptability.
+Hypermodularity shifts the burden of programming:
++ from development to management
++ from programming to defining services based on available source-code and data
 
-2. Expected Outcomes: By following the modular design principles, developers should aim for the larger framework by ensuring the code structure remains consistent and the product becomes maintainable and scalable.
+The smallest element of a modular network is one running service that can be written or reused thanks to successive modular building blocks of reusable code.
 
-3. Hypermodularity: Lastly, it elaborates on the concept of hypermodularity as an advanced form of modularity that offers even greater degrees of flexibility, customization, interchangeability, and scalability.
+
+This is the hyper modular network of code ...
 
 
 
@@ -107,19 +122,6 @@ Modular programming is a software design approach that focuses on breaking down 
    - **Why to Use:** This principle encourages the creation of data structures with rich information content, reducing and moving the logical functions to interfaces and middleware
    - **How to Use:** Design your data models to be comprehensive and include all necessary information. This approach often favors object-oriented designs, where data and related behaviors are combined into objects. Divide objects into data models that do not contain method functions and those that contain them but do not have attributes, i.e. data. Separation of data from functions facilitates expansion and does not create artificial dependencies.
 
-
-## Hypermodularity
-
-Hypermodularity is not about writing, but about reusing code in a network of dependencies
-
-Hypermodularity shifts the burden of programming:
-+ from development to management
-+ from programming to defining services based on available source-code and data
-
-The smallest element of a modular network is one running service that can be written or reused thanks to successive modular building blocks of reusable code.
-
-
-This is the hyper modular network of code ...
 
 
 
