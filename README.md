@@ -36,17 +36,32 @@ development = production of **code** to implement **services** based on **requir
 ![hypermodularity](https://github.com/tom-sapletta-com/modular-code/assets/5669657/87475ed6-5a5e-432a-a6e2-8174952f14d7)
 
 
+## Modular code of network
+
+
+![modular-code-of-network](https://github.com/coders-info/www/assets/5669657/e9588bea-6c16-455f-a829-609b6390abbd)
+
+In modular code of network, these principles help by encouraging the development of concise, focused, and reusable modules that interact with well-defined interfaces, making the overall system robust and adaptable to changes.
+Using these principles, developers are encouraged to pay attention to the bigger picture, strive to maintain consistency in code structure, and promote maintainability and scalability.
+
+Hypermodularity refers to an advanced or extreme degree of modularity in the design and organization of systems, products, technologies, or processes. Modularity itself is a design principle of creating complex systems from smaller, easily managed, interchangeable and often standardized parts or modules. The concept of hypermodularity has been taken to the next level, where modularity is extremely pronounced, allowing for even greater flexibility, customization, interchangeability and scalability.
+
+
+   
+
+## Hypermodularity
+
+This mind map starts with the central concept of Modular Code Networks and branches out into three main subtopics:
+
+1. Core Principles: It emphasizes the key attributes of modules in a modular code network, including being concise, focused, reusable, and having well-defined interfaces that enhance robustness and adaptability.
+
+2. Expected Outcomes: By following the modular design principles, developers should aim for the larger framework by ensuring the code structure remains consistent and the product becomes maintainable and scalable.
+
+3. Hypermodularity: Lastly, it elaborates on the concept of hypermodularity as an advanced form of modularity that offers even greater degrees of flexibility, customization, interchangeability, and scalability.
+
+
 
 ## Modular principles
-
-
-In modular networks of code, these principles help by encouraging the development of concise, focused, and reusable modules that interact with well-defined interfaces, making the overall system robust and adaptable to change. When using these principles, developers are encouraged to be mindful of the big picture, strive for coherence in the codebase structure, and promote maintainability and scalability.
-
-Hypermodularity refers to an advanced or extreme degree of modularity in the design and organization of systems, products, technologies, or processes. 
-Modularity itself is a design principle that involves creating complex systems from smaller, manageable, interchangeable, and often standardized parts or modules.
-The hypermodularity concept is taken to a higher level, where the modularity is exceptionally pronounced, allowing for even greater flexibility, customization, interchangeability, and scalability. 
-
-
 
 ### Environment
 + **management** over production
