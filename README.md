@@ -155,7 +155,9 @@ By combining that 3 layers: **hardware**, software with network of **services** 
 
 
 ---
+
 + Author: [Tom Sapletta - Platform & DevOps Engineer & Hardware Developer, Expat in Germany](https://tom.sapletta.com/) 
+
 ---
 
 + [edit](https://github.com/coders-info/www/edit/main/README.md)
