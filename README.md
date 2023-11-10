@@ -39,6 +39,15 @@ development = production of **code** to implement **services** based on **requir
 
 ## Modular principles
 
+
+In modular networks of code, these principles help by encouraging the development of concise, focused, and reusable modules that interact with well-defined interfaces, making the overall system robust and adaptable to change. When using these principles, developers are encouraged to be mindful of the big picture, strive for coherence in the codebase structure, and promote maintainability and scalability.
+
+Hypermodularity refers to an advanced or extreme degree of modularity in the design and organization of systems, products, technologies, or processes. 
+Modularity itself is a design principle that involves creating complex systems from smaller, manageable, interchangeable, and often standardized parts or modules.
+The hypermodularity concept is taken to a higher level, where the modularity is exceptionally pronounced, allowing for even greater flexibility, customization, interchangeability, and scalability. 
+
+
+
 ### Environment
 + **management** over production
 + **requirements** over expectations
@@ -94,15 +103,6 @@ The smallest element of a modular network is one running service that can be wri
 
 This is the hyper modular network of code ...
 
-
-## Theory
-
-
-In modular networks of code, these principles help by encouraging the development of concise, focused, and reusable modules that interact with well-defined interfaces, making the overall system robust and adaptable to change. When using these principles, developers are encouraged to be mindful of the big picture, strive for coherence in the codebase structure, and promote maintainability and scalability.
-
-Hypermodularity refers to an advanced or extreme degree of modularity in the design and organization of systems, products, technologies, or processes. 
-Modularity itself is a design principle that involves creating complex systems from smaller, manageable, interchangeable, and often standardized parts or modules.
-The hypermodularity concept is taken to a higher level, where the modularity is exceptionally pronounced, allowing for even greater flexibility, customization, interchangeability, and scalability. 
 
 
 ## Contexts
