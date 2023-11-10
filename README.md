@@ -83,7 +83,7 @@ By following the modular design principles, developers should aim for the larger
 
 Hypermodularity refers to an advanced or extreme degree of modularity in the design and organization of systems, products, technologies, or processes. Modularity itself is a design principle of creating complex systems from smaller, easily managed, interchangeable and often standardized parts or modules. 
 Hypermodularity offers more of flexibility, customization, interchangeability, and scalability.
-
+The feature of modularization is that the more modules there are, the more combinations we have at our disposal. The increase in the number of modules forces their specialization.
 
 ### How to use?
 
@@ -97,7 +97,6 @@ The smallest element of a modular network is one running service that can be wri
 
 
 This is the hyper modular network of code ...
-
 
 
 
@@ -134,7 +133,6 @@ Modular programming is a software design approach that focuses on breaking down 
 
 
 
-
 ## Contexts
 
 + **Technology and Computing**: In software development, a hypermodular architecture would allow for easier updates, maintenance, and scale, as individual modules or components can be modified or replaced without impacting the entire system.
@@ -146,12 +144,8 @@ Modular programming is a software design approach that focuses on breaking down 
 + **Organizational Structures**: In management, a hypermodular organizational structure would reflect a highly flexible and adaptable model where teams or units can be formed, reformed, and disbanded as needed to respond to various projects and challenges.
 
 
-## Disadvantages 
 
-Hypermodularity is often associated with terms like agility, resilience, and innovation, as it provides a framework for easily adapting to change and fostering continuous improvement. 
-Depending on the context of use, hypermodularity can also have drawbacks, such as potential issues with integration, increased complexity in coordination, or loss of optimization for specific functions due to the emphasis on general interchangeability.
-
-## Use Case
+## Use Cases
 
 + resuable, modular hardware [Modular Edge Computing Hardware - Militarity](https://www.militarity.com/)
 + modular data storage [Newline Delimited Objects Format - NDOF.org](https://www.ndof.org/)
