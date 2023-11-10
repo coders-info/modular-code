@@ -1,6 +1,6 @@
 # [Modular Code by Hypermodularity](https://www.coders.info/)
 
-From #clean ideas to code #smells ... Let's talk about The Pragmatic Development based on [HyperModularity](https://www.hypermodularity.com/)
+From #clean ideas to code #smells ... Let's talk about The Pragmatic Development based on [HyperModularity](https://wiki.opensourceecology.org/wiki/Hypermodularity)
 
 ## Code Expectations
 
@@ -146,10 +146,11 @@ By combining that 3 layers: **hardware**, software with network of **services** 
 + modular network **services** [dynamic infrastructure of services based on DNS  - Dynapsys](http://www.dynapsys.com)
 
 
+
 ---
 
 + Author: [Tom Sapletta - Platform & DevOps Engineer & Hardware Developer, Expat in Germany](https://tom.sapletta.com/) 
-
++ more about [HyperModularity](https://www.hypermodularity.com/) in draft of book
 ---
 
 + [edit](https://github.com/coders-info/www/edit/main/README.md)
