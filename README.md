@@ -57,28 +57,28 @@ development = production of **code** to implement **services** based on **requir
 Modular programming is a software design approach that focuses on breaking down programs into independent, interchangeable modules where each contains everything necessary to execute a specific functionality. This separation simplifies complex systems, makes the code easier to manage, and promotes code reuse. Here’s how each of the principles you've mentioned fits into modular programming:
 
 ### 1. Management over Production
-   - **Why to Use:** Emphasizing management over mere production ensures that codebases are well-organized and easy to navigate, making the development process more efficient and faster.
-   - **How to Use:** Employ a clear modular structure where every module has a single responsibility. Organize code repositories and document the functionalities and interfaces of each module. This not only helps in current production but also in future management and scaling of the codebase.
+   - **Why to Use:** The emphasis on management rather than production ensures that codebases are well-organized and easy to navigate, making the development process more efficient and faster.
+   - **How to Use:** Use a clear modular structure in which each module has one responsibility. Organize code repositories and document each module's functionality and interfaces. This helps not only with current production, but also with future management and scaling of the code base.
 
 ### 2. Requirements over Expectations
    - **Why to Use:** Prioritizing requirements ensures that the modules developed will meet the actual needs of the users or system, instead of being based on developers' assumptions or expectations that may not align.
-   - **How to Use:** Start with a comprehensive analysis of the requirements and use those to define the scope and design of each module. Ensure that you are creating test cases based on requirements, not expectations, to validate that the module performs as intended.
+   - **How to Use:** Start with a comprehensive requirements analysis and use it to define the scope and design of each module. Make sure you create test cases based on requirements rather than expectations to verify that the module works as expected.
 
 ### 3. Reusability over Code Development
-   - **Why to Use:** A focus on reusability can substantially cut down on development time and effort, as well as reduce the chance for errors, since well-tested modules can be reused rather than rebuilt.
-   - **How to Use:** Design modules with generality and loose coupling in mind. Develop utility libraries, follow standard interfaces, and use design patterns that facilitate reuse. Ensure that the module does not depend heavily on the specific context or other modules.
+   - **Why to Use:** Focusing on reusability can significantly reduce development time and effort, as well as reduce the risk of errors because well-tested modules can be reused rather than rebuilt.
+   - **How to Use:** Design modules with generality and loose coupling in mind. Create tool libraries, follow standard interfaces, and use design patterns for easy reuse. Make sure that the module does not depend heavily on a specific context or other modules.
 
 ### 4. Writing over Refactoring Code
-   - **Why to Use:** Writing code correctly from the outset reduces the need for extensive refactoring later on, which can be resource-intensive and risky if it leads to unforeseen issues.
-   - **How to Use:** Spend more time on the design and planning phase to get a clear understanding of what’s required. Write simple, clean, and understandable code, and incorporate reviews and pair programming to catch potential issues early.
+   - **Why to Use:** Writing code correctly from the start reduces the need for extensive refactoring later, which can be resource-intensive and risky if it leads to unforeseen problems.
+   - **How to Use:** Spend more time in the design and planning phase to thoroughly understand the requirements. Write simple, clean and understandable code and include reviews and pair programming to detect potential problems early.
 
 ### 5. Data Standardization First
-   - **Why to Use:** Standardization simplifies data interchange between modules and systems, promotes interoperability, and reduces complexity when scaling or integrating with other systems.
-   - **How to Use:** Define clear protocols, data formats, and interfaces from the beginning. Stick to well-accepted industry standards wherever possible, and ensure that all modules conform to defined data standards.
+   - **Why to Use:** Standardization simplifies data exchange between modules and systems, promotes interoperability, and reduces complexity when scaling or integrating with other systems.
+   - **How to Use:** Define clear protocols, data formats and interfaces from the beginning. When possible, stick to well-accepted industry standards and ensure that all modules comply with specific data standards.
 
 ### 6. Fat-Data over Fat-Function
-   - **Why to Use:** This principle encourages the creation of data structures with rich information content, reducing the logic complexity within functions, and making the system more flexible and scalable.
-   - **How to Use:** Design your data models to be comprehensive, encapsulating all the necessary information. This approach often entails favoring object-oriented designs where data and the related behaviors are bundled into objects. Make functions operate on these rich data structures, which can lead to more straightforward and modular code.
+   - **Why to Use:** This principle encourages the creation of data structures with rich information content, reducing the logical complexity of functions and making the system more flexible and scalable.
+   - **How to Use:** Design your data models to be comprehensive and include all necessary information. This approach often favors object-oriented designs, where data and related behaviors are combined into objects. Make functions work on these rich data structures, which can lead to simpler and modular code.
 
 
 ## Hypermodularity
