@@ -97,7 +97,9 @@ This is the hyper modular network of code ...
 
 ## Why and How?
 
-Modular programming is a software design approach that focuses on breaking down programs into independent, interchangeable modules where each contains everything necessary to execute a specific functionality. This separation simplifies complex systems, makes the code easier to manage, and promotes code reuse. Here’s how each of the principles you've mentioned fits into modular programming:
+Modular programming is a software design approach that focuses on breaking down programs into independent, interchangeable modules where each contains everything necessary to execute a specific functionality. This separation simplifies complex systems, makes the code easier to manage, and promotes code reuse. 
+
+Here’s how each of the mentioned principle fits into modular programming:
 
 ### 1. Management over Production
    - **Why to Use:** The emphasis on management rather than production ensures that codebases are well-organized and easy to navigate, making the development process more efficient and faster.
