@@ -44,23 +44,10 @@ The concept of hypermodularity has been taken to the next level, where modularit
 ![Modular code of network](https://github.com/coders-info/www/assets/5669657/ccee5072-87d6-413c-ba33-37d4777d8a8f)
 
 
-This mind map starts with the central concept of Modular Code Networks and branches out into three main subtopics:
-
-
-### Modular Principles
-It emphasizes the key attributes of modules in a modular code network, including being concise, focused, reusable, and having well-defined interfaces that enhance robustness and adaptability.
-
-### Expected Outcomes
-By following the modular design principles, developers should aim for the larger framework by ensuring the code structure remains consistent and the product becomes maintainable and scalable.
-
-
-
 
 ## Modular principles
 
-![hypermodularity](https://github.com/tom-sapletta-com/modular-code/assets/5669657/87475ed6-5a5e-432a-a6e2-8174952f14d7)
-
-
+It emphasizes the key attributes of modules in a modular code network, including being concise, focused, reusable, and having well-defined interfaces that enhance robustness and adaptability.
 
 ### Environment
 + **management** over production
@@ -76,8 +63,17 @@ By following the modular design principles, developers should aim for the larger
 
 
 
+## Expected Outcomes
+
+By following the modular design principles, developers should aim for the larger framework by ensuring the code structure remains consistent and the product becomes maintainable and scalable.
+
+
+
 
 ## Hypermodularity
+
+![hypermodularity](https://github.com/tom-sapletta-com/modular-code/assets/5669657/87475ed6-5a5e-432a-a6e2-8174952f14d7)
+
 
 ### Why use this?
 
@@ -95,11 +91,7 @@ Hypermodularity shifts the burden of programming:
 
 The smallest element of a modular network is one running service that can be written or reused thanks to successive modular building blocks of reusable code.
 
-
 This is the hyper modular network of code ...
-
-
-
 
 
 
