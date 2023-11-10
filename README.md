@@ -141,6 +141,7 @@ Here’s how each of the mentioned principle fits into modular programming:
 
 ## Use Cases
 
+
 ### Modular edge computing
 
 By combining that 3 layers: **hardware**, software with network of **services** and **data**, can be achieved modular edge computing:
@@ -156,6 +157,13 @@ By combining that 3 layers: **hardware**, software with network of **services** 
 
 Hypermodularity is an attractive principle for space solar power architecture, as e.g. recently used in Ref. [5].
 By assembling full SSP stations from a large amount of identical elements, production cost are significantly de-creased and reliability of the system is increased due to fewer single points of failure
+
+
+### Automated Software House
+
++ OneDay.run
+  + Dialogware.com
+  + DialogSync.com
 
 
 
