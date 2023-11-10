@@ -168,12 +168,11 @@ By assembling full SSP stations from a large amount of identical elements, produ
 
 ### Resource loading standard
 
-[webstream.dev](https://www.webstream.dev/#/) is a modular loading standard that enables the implementation of streaming via HTTP for:
-
-+ content
-+ media
-+ documents
-+ application
++ [webstream.dev](https://www.webstream.dev/#/) is a modular loading standard that enables the implementation of streaming via HTTP for:
+  + content
+  + media
+  + documents
+  + application
 
 Streaming application/interface directly on frontend, without building backend side is part of wapka ecosystem to build Application based on PaaS infrastructure as Aplication Platform as a Service or (APaaS) Function as a Service (FaaS)
 
