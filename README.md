@@ -168,8 +168,6 @@ By assembling full SSP stations from a large amount of identical elements, produ
 
 ### Modular resource loading standard
 
-
-
 + [webstream.dev](https://www.webstream.dev/#/)
  
 Web Stream Dev is a modular loading standard that enables the implementation of streaming via HTTP for:
