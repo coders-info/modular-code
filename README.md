@@ -129,7 +129,7 @@ Here’s how each of the mentioned principle fits into modular programming:
 
 ## Where?
 
-+ hypermodular solutions, examples, use cases on [Hypermodular World Blog](http://www.hypermodular.com)
++ hypermodular solutions, examples, use cases on [hypermodular.com is a blog about the hypermodular world](http://www.hypermodular.com)
 
 ## More... 
 
