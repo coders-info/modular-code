@@ -29,11 +29,14 @@ From #clean ideas to code #smells ... Let's talk about The Pragmatic Development
 
 
 
-## The Pragmatic Development
+## Software Development
 
 
 + **software development** is the ongoing **refinement** of code to meet evolving service **requirements** and user **expectations**
 + **software development** is continuous **code improvement** for the implementation of **services** based on **requirements** resulting from changing **expectations**
+
+
+## SDLC
 
 ![sdlc2](https://github.com/coders-info/www/assets/5669657/c13803af-7335-41fb-8c4d-33e096d4d055)
 
@@ -132,7 +135,7 @@ Here’s how each of the mentioned principle fits into modular programming:
    - **How to Use:** Design your data models to be comprehensive and include all necessary information. This approach often favors object-oriented designs, where data and related behaviors are combined into objects. Divide objects into data models that do not contain method functions and those that contain them but do not have attributes, i.e. data. Separation of data from functions facilitates expansion and does not create artificial dependencies. For OOP - [Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming), [Single-responsibility principle](https://en.wikipedia.org/wiki/Single-responsibility_principle) and [Dependency injection](https://en.wikipedia.org/wiki/Dependency_injection) will be helpful
 
 
-## Hypermodular development
+## Hypermodular SDLC
 
 Hyper-modular development emphasizes the use of highly reusable, encapsulated code modules that can be configured and connected through dependencies to create complex systems. In this paradigm, rather than writing extensive new code, developers focus on integrating existing modules, each providing a specific piece of functionality that can be independently developed, tested, and maintained.
 
