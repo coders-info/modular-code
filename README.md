@@ -131,10 +131,14 @@ Here’s how each of the mentioned principle fits into modular programming:
 
 + hypermodular solutions, examples, use cases on [Hypermodular World Blog](http://www.hypermodular.com)
 
----
+## More... 
 
-+ Author: [Tom Sapletta - Platform & DevOps Engineer & Hardware Developer, Expat in Germany](https://tom.sapletta.com/) 
-+ more about [HyperModularity](https://www.hypermodularity.com/) in draft of book
+more about [HyperModularity](https://www.hypermodularity.com/) in draft of book
+
+## Author
+
+Hyper Modules Developer [Tom Sapletta - Platform & DevOps Engineer & Hardware Developer, Expat in Germany](https://tom.sapletta.com/) 
+
   
 ---
 
