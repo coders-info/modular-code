@@ -180,15 +180,7 @@ Hypermodularity, when implemented thoughtfully, can therefore contribute to effi
 
 ## Use Cases
 
-
-### Modular edge computing
-
-By combining that 3 layers: **hardware**, software with network of **services** and **data**, can be achieved modular edge computing:
-+ modular **hardware** [Modular Edge Computing Hardware - Militarity](https://www.militarity.com/)
-+ modular **data** storage on one file [Newline Delimited Objects Format - NDOF.org](https://www.ndof.org/)
-+ modular network **services** [dynamic infrastructure of services based on DNS  - Dynapsys](http://www.dynapsys.com)
-
-
+from cosmic ideas to management ... 
 
 ### HD-SSP Space Solar Power
 
@@ -196,6 +188,15 @@ By combining that 3 layers: **hardware**, software with network of **services** 
 
 Hypermodularity is an attractive principle for space solar power architecture, as e.g. recently used in Ref. [5].
 By assembling full SSP stations from a large amount of identical elements, production cost are significantly de-creased and reliability of the system is increased due to fewer single points of failure
+
+
+
+### Modular edge computing
+
+By combining that 3 layers: **hardware**, software with network of **services** and **data**, can be achieved modular edge computing:
++ modular **hardware** [Modular Edge Computing Hardware - Militarity](https://www.militarity.com/)
++ modular **data** storage on one file [Newline Delimited Objects Format - NDOF.org](https://www.ndof.org/)
++ modular network **services** [dynamic infrastructure of services based on DNS  - Dynapsys](http://www.dynapsys.com)
 
 
 ### Automated Software House
