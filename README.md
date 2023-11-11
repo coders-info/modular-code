@@ -222,6 +222,7 @@ Extends the JavaScripts language with Stream Thinking and libraries for building
 
 ### Modular Packages
 
++ [hypermodular-gitmodules/README.md at main · tom-sapletta-com/hypermodular-gitmodules](https://github.com/tom-sapletta-com/hypermodular-gitmodules/blob/main/README.md)
 + [apipackage.com](https://github.com/apipackage)
 + alternative way to handle git-level dependencies, alternative to gitmodules dependencies: [ApiFork](https://github.com/apifork)  
 + creating documentation is not easy in hundreds of projects, where are dependencies we need some simple tool to manage the documentation from the terminal, during programming: [flatedit/bash: bash.flatedit.com](https://github.com/flatedit/bash)
