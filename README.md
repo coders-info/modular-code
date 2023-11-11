@@ -233,6 +233,7 @@ Extends the JavaScripts language with Stream Thinking and libraries for building
 
 + Author: [Tom Sapletta - Platform & DevOps Engineer & Hardware Developer, Expat in Germany](https://tom.sapletta.com/) 
 + more about [HyperModularity](https://www.hypermodularity.com/) in draft of book
+  
 ---
 
 + [edit](https://github.com/coders-info/www/edit/main/README.md)
