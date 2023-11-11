@@ -31,8 +31,7 @@ From #clean ideas to code #smells ... Let's talk about The Pragmatic Development
 
 ## The Pragmatic Development
 
-development = production of **code** to implement **services** based on **requirements**
-
+**software development** is continuous **code improvement** for the implementation of **services** based on **requirements** resulting from changing **expectations**
 
 ## Modular code of network
 
