@@ -31,7 +31,13 @@ From #clean ideas to code #smells ... Let's talk about The Pragmatic Development
 
 ## The Pragmatic Development
 
-**software development** is continuous **code improvement** for the implementation of **services** based on **requirements** resulting from changing **expectations**
+
++ **software development** is the ongoing **refinement** of code to meet evolving service **requirements** and user **expectations**
++ **software development** is continuous **code improvement** for the implementation of **services** based on **requirements** resulting from changing **expectations**
+
+![sdlc2](https://github.com/coders-info/www/assets/5669657/c13803af-7335-41fb-8c4d-33e096d4d055)
+
+
 
 ## Modular code of network
 
