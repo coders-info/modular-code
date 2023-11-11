@@ -202,13 +202,6 @@ By combining that 3 layers: **hardware**, software with network of **services** 
 ### Automated Software House
 
 + [OneDayRun](http://OneDay.run) is a SaaS service that supports modular services based on the [DialogWare](http://Dialogware.com) ecosystem
-  + [coDialog.com](http://www.coDialog.com) - Human Web/Application **Interface** that exchanges: voice, text, mind, behavior with [reDialog.com](http://www.reDialog.com) backend/middleware layer
-    + [reDialog.com](http://www.reDialog.com) - Machine to Machine **Interface** and **protocols**: API, gRPC, ... for Continous Requirements Improvement
-      + format generation [dialogSchema.com](http://www.dialogschema.com) for [dialogStory.com](http://www.dialogStory.com) output
-      + [dialogStory](http://www.dialogStory.com) is an exchange file between **reDialog** and **DialogSync**  
-    + [DialogSync](http://www.DialogSync.com) is the Code Synchronisation Service, based on **dialogStory** file exchange
-    + [DialogChain](https://www.dialogchain.com/) is the Versioning System for **dialogStory** file exchanged with **DialogSync**
-  + [DialogStream](https://www.DialogStream.com/) is the Continuous Deployment system serving the **dialogStory** from **DialogChain** Versioning System     
 
 
 ### Resource loading standard
@@ -223,6 +216,16 @@ Streaming application/interface directly on frontend, without building backend s
 
 WebStream is a rapid prototyping, playing and learning environment for web development. 
 Extends the JavaScripts language with Stream Thinking and libraries for building asyncron, decentralized, modular applications. Web Stream a continuous improving by a flowing stream;
+
+### Modular schema definition for Digital Twin definition
+
++ [metamodule.org](https://docs.metamodule.org/) is a specification of metamodules, for defition of any: process, service, software, role in a team….
+
+
+### Digital Twin Service
+
++ [twinizer.com](http://www.twinizer.com) is a SaaS generator of modular digital twin definition based on [metamodule.org](https://docs.metamodule.org/).
+Once we define the organisation as a network of metamodules, then we have a digital representation, a so-called digital twin: the digital twin
 
 
 
