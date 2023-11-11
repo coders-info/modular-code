@@ -203,6 +203,7 @@ By combining that 3 layers: **hardware**, software with network of **services** 
 
 + [OneDayRun](OneDay.run) is a SaaS service that supports modular services based on the [DialogWare](http://Dialogware.com) ecosystem
   + [coDialog.com](http://www.coDialog.com) - Human Interface: voice, text, mind, behaviors
+  + [reDialog.com](http://www.reDialog.com) - Machine to Machine Interface: API, gRPC, ...
     + format generation [dialogSchema.com](http://www.dialogschema.com) for [dialogStory.com](http://www.dialogStory.com) output
     + [dialogStory](http://www.dialogStory.com) is an exchange file between **coDialog** and **DialogSync**
   + [DialogSync](http://www.DialogSync.com) is the Code Synchronisation Service, based on **dialogStory** file exchange
