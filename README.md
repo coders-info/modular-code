@@ -196,14 +196,19 @@ By assembling full SSP stations from a large amount of identical elements, produ
 By combining that 3 layers: **hardware**, software with network of **services** and **data**, can be achieved modular edge computing:
 + modular **hardware** [Modular Edge Computing Hardware - Militarity](https://www.militarity.com/)
 + modular **data** storage on one file [Newline Delimited Objects Format - NDOF.org](https://www.ndof.org/)
-+ modular network **services** [dynamic infrastructure of services based on DNS  - Dynapsys](http://www.dynapsys.com)
++ modular network **services** [dynamic infrastructure of services based on DNS  - Dynapsys](http://www.dynapsys.com) based on [DialogWare](http://Dialogware.com) text to software platform
 
 
 ### Automated Software House
 
-+ OneDay.run
-  + Dialogware.com
-  + DialogSync.com
++ SaaS to serve Dialogware ecosystem [OneDayRun](OneDay.run)
+  + Text To Software generator [DialogWare](http://Dialogware.com)
+    + [coDialog.com](http://www.coDialog.com) - Human Interface: voice, text, mind, behaviors
+      + format generation [dialogSchema.com](http://www.dialogschema.com) for [dialogStory.com](http://www.dialogStory.com) output
+      + [dialogStory.com](http://www.dialogStory.com) exchange file between **DialogWare** and **DialogChain**
+    + Code Synchronisation Service, Exchange between **coDialog** and **DialogChain** - [DialogSync](http://www.DialogSync.com)      
+    + Versioning System for **DialogSync** file format - [DialogChain](https://www.dialogchain.com/)
+    + Continuous Deployment system serving **DialogChain** SourceCode  [DialogStream](https://www.DialogStream.com/)    
 
 
 ### Resource loading standard
