@@ -133,11 +133,11 @@ Here’s how each of the mentioned principle fits into modular programming:
 
 ## More... 
 
-more about [HyperModularity](https://www.hypermodularity.com/) in draft of book
++ more about [HyperModularity](https://www.hypermodularity.com/) in draft of book
 
 ## Author
 
-Hyper Modules Developer [Tom Sapletta - Platform & DevOps Engineer & Hardware Developer, Expat in Germany](https://tom.sapletta.com/) 
++ Hyper Modules Developer [Tom Sapletta - Platform & DevOps Engineer & Hardware Developer, Expat in Germany](https://tom.sapletta.com/) 
 
   
 ---
