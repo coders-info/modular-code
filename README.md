@@ -81,6 +81,7 @@ Hypermodularity refers to an advanced or extreme degree of modularity in the des
 Hypermodularity offers more of flexibility, customization, interchangeability, and scalability.
 The feature of modularization is that the more modules there are, the more combinations we have at our disposal. The increase in the number of modules forces their specialization.
 
+
 ### How to use?
 
 Hypermodularity is not about writing, but about reusing code in a network of dependencies
@@ -129,13 +130,17 @@ Here’s how each of the mentioned principle fits into modular programming:
 
 ## Contexts
 
-+ **Technology and Computing**: In software development, a hypermodular architecture would allow for easier updates, maintenance, and scale, as individual modules or components can be modified or replaced without impacting the entire system.
+### Technology and Computing
+In software development, a hypermodular architecture would allow for easier updates, maintenance, and scale, as individual modules or components can be modified or replaced without impacting the entire system.
 
-+ **Manufacturing and Industry**: Hypermodular design in manufacturing processes or equipment can enable factories to quickly adapt to new product lines or changes in demand by reconfiguring modular components.
+### Manufacturing and Industry
+Hypermodular design in manufacturing processes or equipment can enable factories to quickly adapt to new product lines or changes in demand by reconfiguring modular components.
 
-+ **Urban Design and Architecture**: Hypermodularity in urban design might involve the creation of living spaces or structures that can be quickly assembled, disassembled, and reassembled in different configurations depending on the changing needs of the inhabitants.
+### Urban Design and Architecture
+Hypermodularity in urban design might involve the creation of living spaces or structures that can be quickly assembled, disassembled, and reassembled in different configurations depending on the changing needs of the inhabitants.
 
-+ **Organizational Structures**: In management, a hypermodular organizational structure would reflect a highly flexible and adaptable model where teams or units can be formed, reformed, and disbanded as needed to respond to various projects and challenges.
+### Organizational Structures
+In management, a hypermodular organizational structure would reflect a highly flexible and adaptable model where teams or units can be formed, reformed, and disbanded as needed to respond to various projects and challenges.
 
 
 
@@ -212,6 +217,14 @@ Streaming application/interface directly on frontend, without building backend s
 
 WebStream is a rapid prototyping, playing and learning environment for web development. 
 Extends the JavaScripts language with Stream Thinking and libraries for building asyncron, decentralized, modular applications. Web Stream a continuous improving by a flowing stream;
+
+
+
+### Modular Packages
+
++ [apipackage.com](https://github.com/apipackage)
++ alternative way to handle git-level dependencies, alternative to gitmodules dependencies: [ApiFork](https://github.com/apifork)  
++ creating documentation is not easy in hundreds of projects, where are dependencies we need some simple tool to manage the documentation from the terminal, during programming: [flatedit/bash: bash.flatedit.com](https://github.com/flatedit/bash)
 
 
 ---
