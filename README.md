@@ -205,9 +205,9 @@ By combining that 3 layers: **hardware**, software with network of **services** 
   + [coDialog.com](http://www.coDialog.com) - Human Interface: voice, text, mind, behaviors
     + format generation [dialogSchema.com](http://www.dialogschema.com) for [dialogStory.com](http://www.dialogStory.com) output
     + [dialogStory.com](http://www.dialogStory.com) exchange file between **DialogWare** and **DialogChain**
-  + Code Synchronisation Service, Exchange between **coDialog** and **DialogChain** - [DialogSync](http://www.DialogSync.com)      
-  + Versioning System for **DialogSync** file format - [DialogChain](https://www.dialogchain.com/)
-  + Continuous Deployment system serving **DialogChain** SourceCode  [DialogStream](https://www.DialogStream.com/)    
+  + [DialogSync](http://www.DialogSync.com) is the Code Synchronisation Service, Exchange between **coDialog** and **DialogChain**
+  + [DialogChain](https://www.dialogchain.com/) is the Versioning System for **DialogSync** file format
+  + [DialogStream](https://www.DialogStream.com/) is the Continuous Deployment system serving **DialogChain** SourceCode     
 
 
 ### Resource loading standard
