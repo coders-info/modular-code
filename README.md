@@ -201,13 +201,13 @@ By combining that 3 layers: **hardware**, software with network of **services** 
 
 ### Automated Software House
 
-+ [OneDayRun](OneDay.run) is a SaaS service that supports modular services based on the [DialogWare](http://Dialogware.com) ecosystem
-  + [coDialog.com](http://www.coDialog.com) - Human Web/App **Interface**: voice, text, mind, behaviors
-  + [reDialog.com](http://www.reDialog.com) - Machine to Machine **Interface** and **protocols**: API, gRPC, ...
-    + format generation [dialogSchema.com](http://www.dialogschema.com) for [dialogStory.com](http://www.dialogStory.com) output
-    + [dialogStory](http://www.dialogStory.com) is an exchange file between **coDialog** and **DialogSync**  
-  + [DialogSync](http://www.DialogSync.com) is the Code Synchronisation Service, based on **dialogStory** file exchange
-  + [DialogChain](https://www.dialogchain.com/) is the Versioning System for **dialogStory** file exchanged with **DialogSync**
++ [OneDayRun](http://OneDay.run) is a SaaS service that supports modular services based on the [DialogWare](http://Dialogware.com) ecosystem
+  + [coDialog.com](http://www.coDialog.com) - Human Web/Application **Interface** that exchanges: voice, text, mind, behavior with [reDialog.com](http://www.reDialog.com) backend/middleware layer
+    + [reDialog.com](http://www.reDialog.com) - Machine to Machine **Interface** and **protocols**: API, gRPC, ... for Continous Requirements Improvement
+      + format generation [dialogSchema.com](http://www.dialogschema.com) for [dialogStory.com](http://www.dialogStory.com) output
+      + [dialogStory](http://www.dialogStory.com) is an exchange file between **reDialog** and **DialogSync**  
+    + [DialogSync](http://www.DialogSync.com) is the Code Synchronisation Service, based on **dialogStory** file exchange
+    + [DialogChain](https://www.dialogchain.com/) is the Versioning System for **dialogStory** file exchanged with **DialogSync**
   + [DialogStream](https://www.DialogStream.com/) is the Continuous Deployment system serving the **dialogStory** from **DialogChain** Versioning System     
 
 
