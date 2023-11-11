@@ -201,14 +201,13 @@ By combining that 3 layers: **hardware**, software with network of **services** 
 
 ### Automated Software House
 
-+ SaaS to serve Dialogware ecosystem [OneDayRun](OneDay.run)
-  + Text To Software generator [DialogWare](http://Dialogware.com)
-    + [coDialog.com](http://www.coDialog.com) - Human Interface: voice, text, mind, behaviors
-      + format generation [dialogSchema.com](http://www.dialogschema.com) for [dialogStory.com](http://www.dialogStory.com) output
-      + [dialogStory.com](http://www.dialogStory.com) exchange file between **DialogWare** and **DialogChain**
-    + Code Synchronisation Service, Exchange between **coDialog** and **DialogChain** - [DialogSync](http://www.DialogSync.com)      
-    + Versioning System for **DialogSync** file format - [DialogChain](https://www.dialogchain.com/)
-    + Continuous Deployment system serving **DialogChain** SourceCode  [DialogStream](https://www.DialogStream.com/)    
++ [OneDayRun](OneDay.run) a SaaS to serve Modular Services based on Text To Software [DialogWare](http://Dialogware.com) ecosystem
+  + [coDialog.com](http://www.coDialog.com) - Human Interface: voice, text, mind, behaviors
+    + format generation [dialogSchema.com](http://www.dialogschema.com) for [dialogStory.com](http://www.dialogStory.com) output
+    + [dialogStory.com](http://www.dialogStory.com) exchange file between **DialogWare** and **DialogChain**
+  + Code Synchronisation Service, Exchange between **coDialog** and **DialogChain** - [DialogSync](http://www.DialogSync.com)      
+  + Versioning System for **DialogSync** file format - [DialogChain](https://www.dialogchain.com/)
+  + Continuous Deployment system serving **DialogChain** SourceCode  [DialogStream](https://www.DialogStream.com/)    
 
 
 ### Resource loading standard
