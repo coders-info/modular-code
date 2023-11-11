@@ -38,6 +38,8 @@ From #clean ideas to code #smells ... Let's talk about The Pragmatic Development
 
 ## SDLC
 
+That flowchart represents the software development life cycle with its stages and some of the units that need to be controlled at each stage. 
+
 ![sdlc2](https://github.com/coders-info/www/assets/5669657/c13803af-7335-41fb-8c4d-33e096d4d055)
 
 
