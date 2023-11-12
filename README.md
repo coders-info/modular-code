@@ -60,7 +60,7 @@ The concept of hypermodularity has been taken to the next level, where modularit
 It emphasizes the key attributes of modules in a modular code network, including being concise, focused, reusable, and having well-defined interfaces that enhance robustness and adaptability.
 
 ### Environment
-+ **management** over **creating**
++ **management** over **creation**
 + **requirements** over **expectations**
 
 ### Source-code
