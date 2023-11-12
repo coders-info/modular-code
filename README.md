@@ -75,8 +75,8 @@ It emphasizes the key attributes of modules in a modular code network, including
 
 ## Expected Outcomes
 
+Hypermodular design principle of creating complex systems from smaller, easily managed, interchangeable and often standardized parts or modules, offers more of flexibility, customization, interchangeability, and scalability.
 By following the modular design principles, developers should aim for the larger framework by ensuring the code structure remains consistent and the product becomes maintainable and scalable.
-
 
 
 
@@ -99,9 +99,6 @@ This is the hyper modular network of code ...
 ![hypermodularity](https://github.com/tom-sapletta-com/modular-code/assets/5669657/87475ed6-5a5e-432a-a6e2-8174952f14d7)
 
 
-### Why?
-
-Hypermodular design principle of creating complex systems from smaller, easily managed, interchangeable and often standardized parts or modules, offers more of flexibility, customization, interchangeability, and scalability.
 
 
 ## How?
@@ -135,9 +132,11 @@ Here’s how each of the mentioned principle fits into modular programming:
    - **How to Use:** Design your data models to be comprehensive and include all necessary information. This approach often favors object-oriented designs, where data and related behaviors are combined into objects. Divide objects into data models that do not contain method functions and those that contain them but do not have attributes, i.e. data. Separation of data from functions facilitates expansion and does not create artificial dependencies. For OOP - [Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming), [Single-responsibility principle](https://en.wikipedia.org/wiki/Single-responsibility_principle) and [Dependency injection](https://en.wikipedia.org/wiki/Dependency_injection) will be helpful
 
 
+
 ## Hypermodular SDLC
 
-Hyper-modular development emphasizes the use of highly reusable, encapsulated code modules that can be configured and connected through dependencies to create complex systems. In this paradigm, rather than writing extensive new code, developers focus on integrating existing modules, each providing a specific piece of functionality that can be independently developed, tested, and maintained.
+Hyper-modular development emphasizes the use of highly reusable, encapsulated code modules that can be configured and connected through dependencies to create complex systems.
+In this paradigm, rather than writing extensive new code, developers focus on integrating existing modules, each providing a specific piece of functionality that can be independently developed, tested, and maintained.
 
 ![hypermodular-development2](https://github.com/coders-info/www/assets/5669657/a8c06fbe-66d5-4970-88eb-2e866be0f1d4)
 
@@ -157,9 +156,11 @@ This methodology streamlines the development process, prioritizing composition o
 
 + hypermodular solutions, examples, use cases on [hypermodular.com is a blog about the hypermodular world](http://www.hypermodular.com)
 
+
 ## More... 
 
 + more about [HyperModularity](https://www.hypermodularity.com/) in draft of book
+
 
 ## Author
 
