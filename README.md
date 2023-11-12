@@ -80,19 +80,10 @@ By following the modular design principles, developers should aim for the larger
 
 
 
-## Hypermodularity
+## What Hypermodularity is?
 
-![hypermodularity](https://github.com/tom-sapletta-com/modular-code/assets/5669657/87475ed6-5a5e-432a-a6e2-8174952f14d7)
-
-
-### Why use this?
-
-Hypermodularity refers to an advanced or extreme degree of modularity in the design and organization of systems, products, technologies, or processes. Modularity itself is a design principle of creating complex systems from smaller, easily managed, interchangeable and often standardized parts or modules. 
-Hypermodularity offers more of flexibility, customization, interchangeability, and scalability.
-The feature of modularization is that the more modules there are, the more combinations we have at our disposal. The increase in the number of modules forces their specialization.
-
-
-### How to use?
+Hypermodularity refers to specialized modularity to design configurable systems, products, technologies or processes.
+The more modules there are, the more combinations we have at our disposal. The increase in the number of modules forces their specialization.
 
 Hypermodularity is not about writing, but about reusing code in a network of dependencies
 
@@ -105,8 +96,15 @@ The smallest element of a modular network is one running service that can be wri
 This is the hyper modular network of code ...
 
 
+![hypermodularity](https://github.com/tom-sapletta-com/modular-code/assets/5669657/87475ed6-5a5e-432a-a6e2-8174952f14d7)
 
-## Why and How?
+
+### Why?
+
+Hypermodular design principle of creating complex systems from smaller, easily managed, interchangeable and often standardized parts or modules, offers more of flexibility, customization, interchangeability, and scalability.
+
+
+## How?
 
 Modular programming is a software design approach that focuses on breaking down programs into independent, interchangeable modules where each contains everything necessary to execute a specific functionality. This separation simplifies complex systems, makes the code easier to manage, and promotes code reuse. 
 
