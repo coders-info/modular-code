@@ -60,16 +60,16 @@ The concept of hypermodularity has been taken to the next level, where modularit
 It emphasizes the key attributes of modules in a modular code network, including being concise, focused, reusable, and having well-defined interfaces that enhance robustness and adaptability.
 
 ### Environment
-+ **management** over production
-+ **requirements** over expectations
++ **management** over **creating**
++ **requirements** over **expectations**
 
 ### Source-code
-+ **reusability** over code development
-+ **writing** over refactoring code
++ **reusability** over code **development**
++ **writing** over **refactoring** code
 
 ### Data
 + data **standardization** first
-+ **fat-data** over fat-function
++ **fat-data** over **fat-function**
 
 
 
@@ -165,7 +165,7 @@ This methodology streamlines the development process, prioritizing composition o
 
 ## Author
 
-+ Hyper Modules Developer [Tom Sapletta - Platform & DevOps Engineer & Hardware Developer, Expat in Germany](https://tom.sapletta.com/) 
++ Hyper Modules Developer [Tom Sapletta](https://tom.sapletta.com/) 
 
   
 ---
