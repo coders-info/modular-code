@@ -154,21 +154,24 @@ This methodology streamlines the development process, prioritizing composition o
 
 ## Tools?
 
-We need more tools, something called:
+### Git is about versioning code
+
+In the development of a modular network, the versioning system is extending a capabilities of [Git](https://en.wikipedia.org/wiki/Git).
+The distributed **version control system** that tracks changes in any set of computer files, usually used for coordinating work among programmers who are collaboratively developing source code during software development. 
+I'ts goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different computers).
+
+### Service-based perspective 
+
+We need more tools, you can call them:
 + Service-based component management tools
 + Network of Source-code management system 
 
-
-### Git is about versioning code
-
-In the development of a modular network versioning system extending the capabilities of [Git](https://en.wikipedia.org/wiki/Git) a distributed **version control system** that tracks changes in any set of computer files, usually used for coordinating work among programmers who are collaboratively developing source code during software development. 
-Its goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different computers).
+Such component management tools are more important than the knowledge of hypermodularity.
 
 
 ### Service-based component management tools
 
-is about network of code (Service-based components)
-The tool based on git versioned code will help to manage the level of **resuabuility**, which is depended by:
+The tool is about network of code (Service-based components), based on git versioned code will help to manage the level of **resuabuility**, which is depended by:
 + class
 + file
 + protocol
@@ -177,7 +180,7 @@ The tool based on git versioned code will help to manage the level of **resuabui
   
 The **network of code** need the service-based component management tools which will provide the ability to view, install and register components according to a model-based approach. 
 Moreover, in practice, reuse is not a binary concept: there is a need to control and administer levels of reuse. 
-Such component management tools are important in hypermodularization.
+
 
 
 Creating a service-based component management tool that integrates with versioned code repositories, such as those managed by Git, and aids in measuring code reusability across various levels, such as class, file, protocol, hardware virtualization, and network topology, would require some sophisticated features. Here is an outline of a solution approach that might help in building such a tool:
