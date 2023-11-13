@@ -156,7 +156,7 @@ This methodology streamlines the development process, prioritizing composition o
 
 ### Git is about versioning code
 
-In the development of a modular network, the versioning system is extending a capabilities of [Git](https://en.wikipedia.org/wiki/Git).
+The [Git](https://en.wikipedia.org/wiki/Git) versioning system works at the code level and extends the capabilities of the modular network of code.
 The distributed **version control system** that tracks changes in any set of computer files, usually used for coordinating work among programmers who are collaboratively developing source code during software development. 
 I'ts goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different computers).
 
@@ -180,8 +180,6 @@ The tool is about network of code (Service-based components), based on git versi
   
 The **network of code** need the service-based component management tools which will provide the ability to view, install and register components according to a model-based approach. 
 Moreover, in practice, reuse is not a binary concept: there is a need to control and administer levels of reuse. 
-
-
 
 Creating a service-based component management tool that integrates with versioned code repositories, such as those managed by Git, and aids in measuring code reusability across various levels, such as class, file, protocol, hardware virtualization, and network topology, would require some sophisticated features. Here is an outline of a solution approach that might help in building such a tool:
 
@@ -208,6 +206,8 @@ Creating a service-based component management tool that integrates with versione
 11. **Automation and CI/CD Integration**: To fit into modern DevOps practices, the tool should integrate with existing continuous integration and continuous deployment pipelines, automating the assessment of reusability as part of the CI/CD process.
 
 By focusing on these key aspects, a service-based component management tool can provide a comprehensive overview and management of a codebase’s reusability at various abstraction levels, from individual classes to entire service components operating within a hardware and network infrastructure context.
+
+
 
 ## Where?
 
