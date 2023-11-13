@@ -152,6 +152,31 @@ In this flowchart, each node represents a step or unit of control within the hyp
 This methodology streamlines the development process, prioritizing composition over custom development, and made possible by advances in package managers and the widespread availability of software modules.
 
 
+## Tools?
+
+We need more tools, something called:
++ Service-based component management tools
++ Network of Source-code management system 
+
+
+### Git is about versioning code
+
+In the development of a modular network versioning system extending the capabilities of [Git](https://en.wikipedia.org/wiki/Git) a distributed **version control system** that tracks changes in any set of computer files, usually used for coordinating work among programmers who are collaboratively developing source code during software development. 
+Its goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different computers).
+
+
+### Service-based component management tools
+
+is about network of code (Service-based components)
+The tool based on git versioned code will help to manage the level of **resuabuility**
+
+The next layer system should help managed **network of code**, Service-based component management tools provide the ability to view, install and register components according to a model-based approach. 
+Moreover, in practice, reuse is not a binary concept: there is a need to control and administer levels of reuse. 
+Such component management tools are important in hypermodularization.
+
+
+
+
 ## Where?
 
 + hypermodular solutions, examples, use cases on [hypermodular.com is a blog about the hypermodular world](http://www.hypermodular.com)
