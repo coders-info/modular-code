@@ -168,12 +168,13 @@ Its goals include speed, data integrity, and support for distributed, non-linear
 ### Service-based component management tools
 
 is about network of code (Service-based components)
-The tool based on git versioned code will help to manage the level of **resuabuility**
-The level of reusability is depends:
+The tool based on git versioned code will help to manage the level of **resuabuility**, which is depended by:
 + class
 + file
 + protocol
-
++ Hardware virutalization
++ Network Topology 
+  
 The **network of code** need the service-based component management tools which will provide the ability to view, install and register components according to a model-based approach. 
 Moreover, in practice, reuse is not a binary concept: there is a need to control and administer levels of reuse. 
 Such component management tools are important in hypermodularization.
