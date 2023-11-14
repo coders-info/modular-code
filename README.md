@@ -69,7 +69,7 @@ It emphasizes the key attributes of modules in a modular code network, including
 
 ### Data
 + data **standardization** first
-+ **fat-data** over **fat-function**
++ **fat-data** over **fat-logic**
 
 
 
@@ -108,13 +108,13 @@ Modular programming is a software design approach that focuses on breaking down 
 
 Here’s how each of the mentioned principle fits into modular programming:
 
-### 1. Management over Production
-   - **Why to Use:** The emphasis on management rather than production ensures that codebases are well-organized and easy to navigate, making the development process more efficient and faster.
-   - **How to Use:** Use a clear modular structure in which each module has one responsibility. Organize code repositories and document each module's functionality and interfaces. This helps not only with current production, but also with future management and scaling of the code base.
+### 1. Management over Creation
+   - **Why to Use:** The emphasis on management rather than **creation** ensures that codebases are well-organized and easy to navigate, making the development process more efficient and faster.
+   - **How to Use:** Use a clear modular structure in which each module has one responsibility. Organize code repositories and document each module's functionality and interfaces. This helps with future management and scaling of the source-code base.
 
 ### 2. Requirements over Expectations
    - **Why to Use:** Prioritizing requirements ensures that the modules developed will meet the actual needs of the users or system, instead of being based on developers' assumptions or expectations that may not align.
-   - **How to Use:** Start with a comprehensive requirements analysis and use it to define the scope and design of each module. Make sure you create test cases based on requirements rather than expectations to verify that the module works as expected.
+   - **How to Use:** Start with a comprehensive **requirements** analysis and use it to define the scope and design of each module. Make sure you create test cases based on **requirements** rather than expectations to verify that the module works as expected.
 
 ### 3. Reusability over Code Development
    - **Why to Use:** Focusing on reusability can significantly reduce development time and effort, as well as reduce the risk of errors because well-tested modules can be reused rather than rebuilt.
@@ -122,16 +122,26 @@ Here’s how each of the mentioned principle fits into modular programming:
 
 ### 4. Writing over Refactoring Code
    - **Why to Use:** Writing code correctly from the start reduces the need for extensive refactoring later, which can be resource-intensive and risky if it leads to unforeseen problems.
-   - **How to Use:** Spend more time in the design and planning phase to thoroughly understand the requirements. Write simple, clean and understandable code and include reviews and pair programming to detect potential problems early.
+   - **How to Use:** The goal here is to not refactor, but build small part of logic and replace them instead of refactor, which cost more resources. It not mean to spend more time in the design and planning phase, but adapting and prototyping continuously instead of spending time on definition the ideal requirements. Write simple, clean and understandable code and include reviews and pair programming to detect potential problems early. The Pair programming with ML generators of course. To build or find the logic, adopt, test & deploy.
 
 ### 5. Data Standardization First
    - **Why to Use:** Standardization simplifies data exchange between modules and systems, promotes interoperability, and reduces complexity when scaling or integrating with other systems.
    - **How to Use:** Define clear protocols, data formats and interfaces from the beginning. When possible, stick to well-accepted industry standards and ensure that all modules comply with specific data standards.
 
-### 6. Fat-Data over Fat-Function
+### 6. Fat-Data over Fat-Logic
    - **Why to Use:** This principle encourages the creation of data structures with rich information content, reducing and moving the logical functions to interfaces and middleware
    - **How to Use:** Design your data models to be comprehensive and include all necessary information. This approach often favors object-oriented designs, where data and related behaviors are combined into objects. Divide objects into data models that do not contain method functions and those that contain them but do not have attributes, i.e. data. Separation of data from functions facilitates expansion and does not create artificial dependencies. For [Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming), [Single-responsibility principle](https://en.wikipedia.org/wiki/Single-responsibility_principle) and [Dependency injection](https://en.wikipedia.org/wiki/Dependency_injection) will be helpful. That Principle reduce abstraction in logic area by using objects instead of (no)typed data. The main advantage is that it allows logical code to be reused in other contexts throught the interfaces of data.
 
+
+
+
+## Modular development
+
++ Expectations describing
++ Requirements defining
++ Data Model defining (input/output)
+  + Test scenario writing, for expected Data Model inputs and outputs
+    + Code: finding, generating, customizing
 
 
 ## Hypermodular SDLC
