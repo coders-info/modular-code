@@ -140,8 +140,10 @@ Here’s how each of the mentioned principle fits into modular programming:
 + Expectations describing
 + Requirements defining
 + Data Model defining (input/output)
-  + Test scenario writing, for expected Data Model inputs and outputs
+  + Providing Test Data for expected Data Model inputs and outputs
     + Code: finding, generating, customizing
+
+As you can see, the code is generated only at the end, as in the TDD "Test-driven development" principals, because before that you need to define the expected input and output data to verify that the logic performs the expected result on the input data
 
 
 ## Hypermodular SDLC
