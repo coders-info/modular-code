@@ -63,9 +63,10 @@ It emphasizes the key attributes of modules in a modular code network, including
 + **management** over **creation**
 + **requirements** over **expectations**
 
-### Source-code
+### Source-code LOGIC
 + **reusability** over code **development**
 + **writing** over **refactoring** code
++ **Specialization** Over **Complexity**
 
 ### Data
 + data **standardization** first
