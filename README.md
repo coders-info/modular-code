@@ -124,15 +124,18 @@ Here’s how each of the mentioned principle fits into modular programming:
    - **Why to Use:** Writing code correctly from the start reduces the need for extensive refactoring later, which can be resource-intensive and risky if it leads to unforeseen problems.
    - **How to Use:** The goal here is to not refactor, but build small part of logic and replace them instead of refactor, which cost more resources. It not mean to spend more time in the design and planning phase, but adapting and prototyping continuously instead of spending time on definition the ideal requirements. Write simple, clean and understandable code and include reviews and pair programming to detect potential problems early. The Pair programming with ML generators of course. To build or find the logic, adopt, test & deploy.
 
-### 5. Data Standardization First
-   - **Why to Use:** Standardization simplifies data exchange between modules and systems, promotes interoperability, and reduces complexity when scaling or integrating with other systems.
-   - **How to Use:** Define clear protocols, data formats and interfaces from the beginning. When possible, stick to well-accepted industry standards and ensure that all modules comply with specific data standards.
-
-### 6. Fat-Data over Fat-Logic
+### 5. Fat-Data over Fat-Logic
    - **Why to Use:** This principle encourages the creation of data structures with rich information content, reducing and moving the logical functions to interfaces and middleware
    - **How to Use:** Design your data models to be comprehensive and include all necessary information. This approach often favors object-oriented designs, where data and related behaviors are combined into objects. Divide objects into data models that do not contain method functions and those that contain them but do not have attributes, i.e. data. Separation of data from functions facilitates expansion and does not create artificial dependencies. For [Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming), [Single-responsibility principle](https://en.wikipedia.org/wiki/Single-responsibility_principle) and [Dependency injection](https://en.wikipedia.org/wiki/Dependency_injection) will be helpful. That Principle reduce abstraction in logic area by using objects instead of (no)typed data. The main advantage is that it allows logical code to be reused in other contexts throught the interfaces of data.
 
+### 6. Data Standardization First
+   - **Why to Use:** Standardization simplifies data exchange between modules and systems, promotes interoperability, and reduces complexity when scaling or integrating with other systems.
+   - **How to Use:** Define clear protocols, data formats and interfaces from the beginning. When possible, stick to well-accepted industry standards and ensure that all modules comply with specific data standards.
 
+### 7. Specialization Over Complexity
+   - **Why to Use:** Specializing in a particular area or function allows a system or team to excel, delivering higher quality and more efficient outcomes than trying to handle too many varied tasks. This principle can improve performance, enhance focus, and reduce the risks associated with attempting to navigate excessively complex domains or projects.
+   - **How to Use:** Identify core competencies or essential functions and design systems, modules, or team roles around these specific areas. Avoid feature creep that leads to bloated, complex solutions. Concentrate on developing expertise and excellence in a narrower field, which can then be integrated with other specialized systems or roles to create a comprehensive solution.
+     
 
 
 ## Modular development
