@@ -176,7 +176,7 @@ This methodology streamlines the development process, prioritizing composition o
 
 + Opensource [moduleTool](https://moduletool.github.io/docs/)
 + Online free tool, one package from documentation per one day [oneday.run](https://www.oneday.run)
-+ Online tool with with marketplace 20EUR/month with autodeployment[hypermaton](https://www.hypermaton.com)
++ Online tool with with marketplace 20EUR/month with autodeployment [hypermaton](https://www.hypermaton.com)
 
 
 ## Where?
