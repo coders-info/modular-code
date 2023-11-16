@@ -173,7 +173,11 @@ This methodology streamlines the development process, prioritizing composition o
 
 ## Tools?
 
-+ [moduleTool](https://moduletool.github.io/docs/)
+
++ Opensource [moduleTool](https://moduletool.github.io/docs/)
++ Online free tool, one package from documentation per one day [oneday.run](https://www.oneday.run)
++ Online tool with with marketplace 20EUR/month with autodeployment[hypermaton](https://www.hypermaton.com)
+
 
 ## Where?
 
