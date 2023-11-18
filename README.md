@@ -44,7 +44,7 @@ That flowchart represents the software development life cycle with its stages an
 
 
 
-## Modular code of network
+## Modular source code of network
 
 In modular code of network, modular principles help by encouraging the development of concise, focused, and reusable modules that interact with well-defined interfaces, making the overall system robust and adaptable to changes.
 Using these principles, developers are encouraged to pay attention to the bigger picture, strive to maintain consistency in code structure, and promote maintainability and scalability.
@@ -52,6 +52,7 @@ The concept of hypermodularity has been taken to the next level, where modularit
 
 
 ![Modular code of network](https://github.com/coders-info/www/assets/5669657/ccee5072-87d6-413c-ba33-37d4777d8a8f)
+
 
 
 
@@ -169,6 +170,7 @@ Here’s how each of the mentioned principle fits into modular programming:
    - **How to Use:** Design your data models to be comprehensive and include all necessary information. This approach often favors object-oriented designs, where data and related behaviors are combined into objects. Divide objects into data models that do not contain method functions and those that contain them but do not have attributes, i.e. data. Separation of data from functions facilitates expansion and does not create artificial dependencies. For [Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming), [Single-responsibility principle](https://en.wikipedia.org/wiki/Single-responsibility_principle) and [Dependency injection](https://en.wikipedia.org/wiki/Dependency_injection) will be helpful. That Principle reduce abstraction in logic area by using objects instead of (no)typed data. The main advantage is that it allows logical code to be reused in other contexts throught the interfaces of data.
 
 
+
 ## Modular development
 
 + Expectations describing
@@ -178,6 +180,12 @@ Here’s how each of the mentioned principle fits into modular programming:
     + Code: finding, generating, customizing
 
 As you can see, the code is generated only at the end, as in the TDD "Test-driven development" principals, because before that you need to define the expected input and output data to verify that the logic performs the expected result on the input data
+
+
+## Modular Component
+
+![Component](https://github.com/coders-info/www/assets/5669657/f3b73df8-e2bb-4cdb-a435-dd4f8c1ef5f7)
+
 
 
 ## Hypermodular SDLC
