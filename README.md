@@ -366,26 +366,57 @@ It's important to follow a consistent coding style and naming convention, as wel
 
 ## How to refactor non-modular code?
 
-1. Analyze the code: Review the existing codebase and identify areas that lack modularity. Look for code that is tightly coupled, contains duplicated functionality, or violates basic design principles.
+Refactoring non-modular code into modular code can be an intensive process that requires careful planning and execution. 
+Here’s a guide to help you through it:
 
-2. Define objectives: Determine the specific goals of the refactoring. This could include improving modularity, enhancing code maintainability, reducing complexity, or fixing specific bugs or issues.
+1. **Assessment**:
+   - Carry out a thorough review of the existing codebase.
+   - Identify areas of high complexity, tightly coupled components, and duplicated logic.
 
-3. Break it down: Break the refactoring process into smaller, manageable tasks. Prioritize the tasks based on their impact and complexity, and create a plan for tackling them systematically.
+2. **Establishing Refactoring Goals**:
+   - Define clear goals for refactoring, such as increasing maintainability, improving scalability, or preparing the code for new feature development.
 
-4. Refactor one piece at a time: Start refactoring by focusing on one piece of code at a time. This could be a specific function, a module, or a section of the code. Make changes to improve modularity, separate concerns, and reduce coupling while ensuring that the code continues to function correctly.
+3. **Planning**:
+   - Create a detailed plan outlining the specific parts of the codebase to refactor.
+   - Break the work into smaller, manageable tasks.
+   - Prioritize tasks based on dependencies, potential impact, and complexity.
 
-5. Test and review: After making changes, thoroughly test the code to ensure that it still functions as expected. Write automated tests if possible to verify the correctness of the refactored code. Additionally, review the refactored code to ensure it meets the desired objectives and adheres to best practices.
+4. **Understanding Dependencies**:
+   - Map out the dependencies between different parts of the codebase.
+   - Identify “seams” in the code where changes can be made with minimal impact on other parts.
 
-6. Iterate and iterate: Refactoring is an iterative process. Repeat steps 4 and 5 for each identified area of improvement. Gradually, the codebase will become more modular and maintainable as the refactoring progresses.
+5. **Creating Tests**:
+   - Before making changes, ensure that there are adequate tests around the existing code (Unit Tests, Functional Tests).
+   - If tests do not exist, start by writing tests for the current logic to ensure you can detect any changes in behavior during the refactoring.
 
-7. Collaborate and communicate: Refactoring non-modular code may involve working in a team. Collaborate with other developers to discuss the refactoring approach and seek feedback on changes. Communicate with stakeholders to update them on the refactoring progress and any impact on the project's timeline or deliverables.
+6. **Refactoring Iteratively**:
+   - Begin with small, incremental changes, ideally refactoring one module, class, or even method at a time.
+   - Continuously run tests to ensure refactoring doesn’t break existing functionality.
 
-8. Document the process: It is crucial to document the refactoring process, including the objectives, tasks performed, and the reasons behind specific decisions. This documentation will help future developers understand and maintain the codebase effectively.
+7. **Modularizing Code**:
+   - Extract tightly coupled logic into separate, more cohesive and loosely coupled modules.
+   - Apply principles such as DRY (Don’t Repeat Yourself) to eliminate repetitions and Single Responsibility Principle to ensure each module has one reason to change.
 
-Remember that refactoring requires careful testing and validation at each step to ensure that the code remains functional and that the desired objectives are achieved. It's also important to balance the refactoring effort with the needs and priorities of the project to avoid excessive disruption or delays.
+8. **Review API and Data Flow**:
+   - Define clear interfaces for each module so they can interact without internal knowledge of each module's workings.
+   - Establish data flow mechanisms that support the modularity of the codebase.
 
+9. **Continuous Integration**:
+   - Frequently merge changes into the main codebase to prevent drift and reduce the potential for difficult integration conflicts.
 
+10. **Documentation and Knowledge-Sharing**:
+    - Document architectural decisions, module interfaces, and the rationale behind the changes to help future maintainers.
+    - Communicate changes regularly with your team to sync up and gather input from different perspectives.
 
+11. **Monitoring and Optimization**:
+    - Keep an eye on the impact of refactoring on system performance and resource usage.
+    - Make adjustments as necessary to optimize the code after refactoring.
+
+12. **Reflect and Adapt the Process**:
+    - After completing a set of refactoring tasks, reflect on what worked well and what could be improved.
+    - Adjust the refactoring strategy based on feedback and lessons learned to enhance future iterations.
+
+Remember that the exact steps may vary depending on the specific codebase and the context in which you’re operating. Phases might overlap, and the process could be recursive as you learn more about the code and uncover additional areas that require attention. The key is to maintain the existing functionality while making the codebase more modular, readable, maintainable, and ready for future changes.
 
 
 ## Tools?
