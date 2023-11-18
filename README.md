@@ -5,8 +5,9 @@ From #clean ideas to code #smells ... Let's talk about The Pragmatic Development
 ## Code Expectations
 
 ### everyone expect:
-  + [clean code](https://en.wikipedia.org/wiki/SOLID)
-  + [patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
+  + [patterns](https://en.wikipedia.org/wiki/Software_design_pattern), clean code
+  + [SOLID](https://en.wikipedia.org/wiki/SOLID) – General Responsibility Assignment Software Patterns (Principles), very general “good practices” for allocating responsibilities  
+  + [GRASP](https://en.wikipedia.org/wiki/GRASP) – a set of 5 rules that should not be broken
   + [KISS](https://en.wikipedia.org/wiki/KISS_principle)
   + ...
     
@@ -36,6 +37,29 @@ From #clean ideas to code #smells ... Let's talk about The Pragmatic Development
 + **software development** is continuous **code improvement** for the implementation of **services** based on **requirements** resulting from changing **expectations**
 
 
+## Single Responsibility with GRASP 
+ 
+### Low Coupling on Design
+
+Problem:
+How to reduce the number of dependencies and the scope of changes, and increase the possibility
+code reuse?
+
+Solution:
+Assign responsibility to limit the degree of coupling (number
+object associations). Apply this principle at the design stage.
+
+### High Cohesion
+
+Problem:
+How to make objects have a clear purpose, are understandable and easy to maintain?
+
+Solution:
+Assign responsibility to ensure consistency remains high.
+Cohesion = "coupling" within one and the same class between its members.
+
+
+
 ## SDLC
 
 That flowchart represents the software development life cycle with its stages and some of the units that need to be controlled at each stage. 
@@ -52,8 +76,6 @@ The concept of hypermodularity has been taken to the next level, where modularit
 
 
 ![Modular code of network](https://github.com/coders-info/www/assets/5669657/ccee5072-87d6-413c-ba33-37d4777d8a8f)
-
-
 
 
 ## Modular Structure
