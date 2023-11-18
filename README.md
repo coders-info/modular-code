@@ -157,6 +157,7 @@ Hypermodular design principle of creating complex systems from smaller, easily m
 By following the modular design principles, developers should aim for the larger framework by ensuring the code structure remains consistent and the product becomes maintainable and scalable.
 
 
+![Hypermodular design principle](https://github.com/coders-info/www/assets/5669657/b624c39a-a6ff-4470-9efc-88436e06126a)
 
 
 ## What Hypermodularity is?
