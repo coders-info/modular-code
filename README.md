@@ -219,6 +219,8 @@ Here’s how each of the mentioned principle fits into modular programming:
 
 ## Modular development
 
+The technique of modular programming emphasizes splitting computer programs into independent, interchangeable modules. These modules contain everything essential to execute a single aspect of software functionality.
+
 + Expectations describing
 + Requirements:
   + **Interface** between Components, Communication layer
@@ -240,13 +242,6 @@ Modular component is a modular unit with a specific role, designed to be execute
 It possesses the following characteristics:
 
 
-
-## Modular development
-
-![Hypermodularity](https://github.com/coders-info/www/assets/5669657/6b4fed6e-9c54-4c0b-a2f3-00771d5b9f09)
-
-
-
 ### 1. Environment
 The environment encompasses the necessary settings and platform under which the component operates. It includes the infrastructure, runtime system, necessary services, and configuration that enable the component to function efficiently and interact with the system or other components. An effective environment ensures that the component is isolated from complexities, allowing the core functionality to be the primary focus.
 
@@ -258,6 +253,10 @@ This aspect of the interface describes the behavior or the operations that the c
 
 ### 2.1.2 Data
 This aspect of the interface defines the types and structures of the data that the component accepts as input and produces as output. It lays down the schema, data formats, and communication protocols to ensure that the data exchange between components is consistent and understandable, thereby allowing for proper integration and interoperability within the system.
+
+
+
+![Hypermodularity](https://github.com/coders-info/www/assets/5669657/6b4fed6e-9c54-4c0b-a2f3-00771d5b9f09)
 
 
 
