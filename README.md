@@ -5,9 +5,9 @@ From #clean ideas to code #smells ... Let's talk about The Pragmatic Development
 ## Code Expectations
 
 ### everyone expect:
-  + [patterns](https://en.wikipedia.org/wiki/Software_design_pattern), clean code
-  + [SOLID](https://en.wikipedia.org/wiki/SOLID) – General Responsibility Assignment Software Patterns (Principles), very general “good practices” for allocating responsibilities  
-  + [GRASP](https://en.wikipedia.org/wiki/GRASP) – a set of 5 rules that should not be broken
+  + [patterns](https://en.wikipedia.org/wiki/Software_design_pattern) - clean code
+  + [SOLID](https://en.wikipedia.org/wiki/SOLID) – a set of 5 rules that should not be broken
+  + [GRASP](https://en.wikipedia.org/wiki/GRASP) – General Responsibility Assignment Software Patterns (Principles), very general “good practices” for allocating responsibilities  
   + [KISS](https://en.wikipedia.org/wiki/KISS_principle)
   + ...
     
