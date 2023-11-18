@@ -55,6 +55,34 @@ The concept of hypermodularity has been taken to the next level, where modularit
 
 
 
+## Modular Strcuture
+
++ Complexity
+  + Network
+
++ Reusability
+  + Interface
+  + Data
+  + Logic
+
++ Specialization
+  + Single responsibility
+
+
+## Modular Requirements
+
++ **Contextuality** - context of usage, interface is a part of environment not Logic or Data
++ **Complexity** is about network coverage to suit the customer's needs
++ **Reusability** is possible when the interface, Data and Logic are separated and are not part of logic, the interface is adapted to the data and logic
++ **Specialization** is about code responsibility
+
+
+## Modular Architecture
+
++ **IaaC** - **Infrastructure as a Code** - Definition of Environment, Interface based on **MetaModules** and DevOps tools
++ **FaaS** - **Function as a Service** - logic and data models are used through the FaaS platform through DNS configuration: CNAME provieder, TXT configuration
+
+
 ## Modular principles
 
 It emphasizes the key attributes of modules in a modular code network, including being concise, focused, reusable, and having well-defined interfaces that enhance robustness and adaptability.
