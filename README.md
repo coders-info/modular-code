@@ -162,9 +162,6 @@ By following the modular design principles, developers should aim for the larger
 
 ## What Hypermodularity is?
 
-
-![Hypermodularity](https://github.com/coders-info/www/assets/5669657/6b4fed6e-9c54-4c0b-a2f3-00771d5b9f09)
-
 Hypermodularity refers to specialized modularity to design configurable systems, products, technologies or processes.
 The more modules there are, the more combinations we have at our disposal. The increase in the number of modules forces their specialization.
 
@@ -174,9 +171,6 @@ Hypermodularity shifts the burden of programming:
 + from development to management
 + from programming to defining services based on available source-code and data
 
-The smallest element of a modular network is one running service that can be written or reused thanks to successive modular building blocks of reusable code.
-
-This is the hyper modular network of code ...
 
 
 ![hypermodularity](https://github.com/tom-sapletta-com/modular-code/assets/5669657/87475ed6-5a5e-432a-a6e2-8174952f14d7)
@@ -242,8 +236,16 @@ Modular component is a modular unit with a specific role, designed to be execute
 
 ![Component](https://github.com/coders-info/www/assets/5669657/f3b73df8-e2bb-4cdb-a435-dd4f8c1ef5f7)
 
-A software component can be defined as a self-contained unit with a well-specified functionality that can be integrated into a larger system. 
+
 It possesses the following characteristics:
+
+
+
+## Modular development
+
+![Hypermodularity](https://github.com/coders-info/www/assets/5669657/6b4fed6e-9c54-4c0b-a2f3-00771d5b9f09)
+
+
 
 ### 1. Environment
 The environment encompasses the necessary settings and platform under which the component operates. It includes the infrastructure, runtime system, necessary services, and configuration that enable the component to function efficiently and interact with the system or other components. An effective environment ensures that the component is isolated from complexities, allowing the core functionality to be the primary focus.
@@ -260,6 +262,12 @@ This aspect of the interface defines the types and structures of the data that t
 
 
 ## Modular network
+
+The smallest element of a modular network is a component.
+The component can be defined as a self-contained unit with a well-specified functionality that can be integrated into a larger system. 
+The component one running service that can be written or reused thanks to successive modular building blocks of reusable code.
+
+This is the hyper modular network of code ...
 
 ![Modular Components](https://github.com/coders-info/www/assets/5669657/a31c890b-5007-43d9-b623-dafbd6f3fef4)
 
