@@ -145,6 +145,10 @@ It emphasizes the key attributes of modules in a modular code network, including
 + data **standardization** first
 + **fat-data** over **fat-logic**
 
+### Interface
++ GUI layer
++ Data Access layer
++ Protocol communication
 
 
 ## Expected Outcomes
@@ -294,6 +298,12 @@ This methodology streamlines the development process, prioritizing composition o
 ## More... 
 
 + more about [HyperModularity](https://www.hypermodularity.com/) in draft of book
+
++ [Modular Monoliths Video - Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE).
++ [Majestic Modular Monliths - Axel Fontaine](https://www.youtube.com/watch?v=BOvxJaklcr0).
++ [Monolithic application - Wikipedia](https://en.wikipedia.org/wiki/Monolithic_application).
++ [Modular Monolith with DDD - GitHub repository](https://github.com/kgrzybek/modular-monolith-with-ddd).
++ [Vertical Slice Architecture - Jimmy Bogard](https://jimmybogard.com/vertical-slice-architecture/).
 
 
 ## Author
