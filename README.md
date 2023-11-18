@@ -105,7 +105,7 @@ The concept of hypermodularity has been taken to the next level, where modularit
   + Network
 
 + Reusability
-  + Interface
+  + Interface    
   + Data
   + Logic
 
@@ -130,6 +130,7 @@ The concept of hypermodularity has been taken to the next level, where modularit
 ## Modular Principles
 
 It emphasizes the key attributes of modules in a modular code network, including being concise, focused, reusable, and having well-defined interfaces that enhance robustness and adaptability.
++ [Modular programming](https://en.wikipedia.org/wiki/Modular_programming)
 
 ### Environment
 + **management** over **creation**
@@ -217,10 +218,11 @@ Here’s how each of the mentioned principle fits into modular programming:
 ## Modular development
 
 + Expectations describing
-+ Requirements defining
-+ Data Model defining (input/output)
-  + Providing Test Data for expected Data Model inputs and outputs
-    + Code: finding, generating, customizing
++ Requirements:
+  + **Interface** between Components, Communication layer
+    + **Data Model** input/output definition
+      + expected **Values** for Data Model inputs and outputs
+        + **Logic** Code finding, generating, customizing
 
 As you can see, the code is generated only at the end, as in the TDD "Test-driven development" principals, because before that you need to define the expected input and output data to verify that the logic performs the expected result on the input data
 
