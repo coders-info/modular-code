@@ -55,7 +55,7 @@ The concept of hypermodularity has been taken to the next level, where modularit
 
 
 
-## Modular Strcuture
+## Modular Structure
 
 + Complexity
   + Network
@@ -83,7 +83,7 @@ The concept of hypermodularity has been taken to the next level, where modularit
 + **FaaS** - **Function as a Service** - logic and data models are used through the FaaS platform through DNS configuration: CNAME provieder, TXT configuration
 
 
-## Modular principles
+## Modular Principles
 
 It emphasizes the key attributes of modules in a modular code network, including being concise, focused, reusable, and having well-defined interfaces that enhance robustness and adaptability.
 
