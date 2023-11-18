@@ -211,7 +211,7 @@ This aspect of the interface defines the types and structures of the data that t
 ![Modular Components](https://github.com/coders-info/www/assets/5669657/a31c890b-5007-43d9-b623-dafbd6f3fef4)
 
 
-
++ [ModularComponents.mp4](ModularComponents.mp4)
 
 
 ## Hypermodular SDLC
