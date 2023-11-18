@@ -41,22 +41,43 @@ From #clean ideas to code #smells ... Let's talk about The Pragmatic Development
  
 ### Low Coupling on Design
 
-Problem:
+#### Problem:
 How to reduce the number of dependencies and the scope of changes, and increase the possibility
 code reuse?
 
-Solution:
+#### Solution:
 Assign responsibility to limit the degree of coupling (number
 object associations). Apply this principle at the design stage.
 
+
 ### High Cohesion
 
-Problem:
+#### Problem:
 How to make objects have a clear purpose, are understandable and easy to maintain?
 
-Solution:
+#### Solution:
 Assign responsibility to ensure consistency remains high.
 Cohesion = "coupling" within one and the same class between its members.
+
+
+## Single Responsibility with SOLID
+
+#### SRP Single Responsibility Principle
+A class has only one responsibility
+
+#### OCP Open-Closed Principle
+open to extensions, closed to modifications
+
+#### LLSP
+Liskov Substitution Principle
+Each class object should be replaceable in the context of its use by an object of a child class
+
+#### ISP Interface Segregation Principle
+The client should not be forced to depend on methods he does not use
+
+#### D DIP Dependency Inversion Principle
+Higher level modules depend on abstraction, not implementation
+
 
 
 
