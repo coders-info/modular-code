@@ -162,6 +162,9 @@ By following the modular design principles, developers should aim for the larger
 
 ## What Hypermodularity is?
 
+
+![Hypermodularity](https://github.com/coders-info/www/assets/5669657/6b4fed6e-9c54-4c0b-a2f3-00771d5b9f09)
+
 Hypermodularity refers to specialized modularity to design configurable systems, products, technologies or processes.
 The more modules there are, the more combinations we have at our disposal. The increase in the number of modules forces their specialization.
 
