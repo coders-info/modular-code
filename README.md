@@ -204,8 +204,10 @@ Applications are growing in size and functionality and software quality is impro
 Separated piece then becomes one element of the modular architecture, each piece should be isolated by interface:
 
 + components - we are using in the context Network of Source Code
-  + modules - inside the **component**
+  + modules - inside the **component** as unit of code
   + plugins - outside the **component** as part of system, environment, platform
+  
+A module is simply a unit of code that you can "plug" into Platform
 
 
 Modular applications are composed of modules.
