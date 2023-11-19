@@ -1,0 +1,16 @@
+Software Development Iterations#mermaid-svg{font-family:"trebuchet
+ms",verdana,arial,sans-serif;font-size:16px;fill:#333;}#mermaid-svg
+.error-icon{fill:#552222;}#mermaid-svg
+.error-text{fill:#552222;stroke:#552222;}#mermaid-svg
+.edge-thickness-normal{stroke-width:2px;}#mermaid-svg
+.edge-thickness-thick{stroke-width:3.5px;}#mermaid-svg
+.edge-pattern-solid{stroke-dasharray:0;}#mermaid-svg
+.edge-pattern-dashed{stroke-dasharray:3;}#mermaid-svg
+.edge-pattern-dotted{stroke-dasharray:2;}#mermaid-svg
+.marker{fill:#333333;stroke:#333333;}#mermaid-svg
+.marker.cross{stroke:#333333;}#mermaid-svg svg{font-family:"trebuchet
+ms",verdana,arial,sans-serif;font-size:16px;}#mermaid-svg
+:root{--mermaid-font-family:"trebuchet
+ms",verdana,arial,sans-serif;}Network ComplexityData
+IntegrityRefactoringDependenciesHypeModularityMicroservicesMonolithModulithLow SimplicityHigh SimplicityLow ReusabilityMore ReusabilitySoftware Development Iterations@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css");
+
