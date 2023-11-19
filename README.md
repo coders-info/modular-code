@@ -12,6 +12,14 @@ From #clean ideas to code #smells ... Let's talk about The Pragmatic Development
 + [modular code](http://www.coders.info/#modular%20code)
 + [modular programming](http://www.coders.info/#modular%20programming)
 
+
+Popular Approach
++ SDLC today
++ Current Teamwork
+
+Modular Approach
++ Modular SDLC
++ Modular Teamwork
   
 ## Code Expectations
 
@@ -430,8 +438,47 @@ Here’s a guide to help you through it:
 Remember that the exact steps may vary depending on the specific codebase and the context in which you’re operating. Phases might overlap, and the process could be recursive as you learn more about the code and uncover additional areas that require attention. The key is to maintain the existing functionality while making the codebase more modular, readable, maintainable, and ready for future changes.
 
 
-## Tools?
 
+## Modular Teamwork
+
+Modularity is a mechanism to coordinate the work of many people around the world, manage interdependencies between their parts of the project, and assemble very complex systems in a reasonably reliable way
+
+
+## Modular Management
+
+Managers who want to capitalize on hypermodularization's and hyperspecialization's possibilities need to learn how best to divide knowledge work into discrete tasks, recruit specialized workers, ensure the quality of the work, and integrate the pieces into a final whole through Engineering platform
+Meanwhile, companies and governments must be aware of the potential perils of this new age: "digital sweatshops" and other forms of worker exploitation; nefarious schemes hidden behind task atomization; work that becomes dull and meaningless; increased electronic surveillance of workers.
+
+
+
+## Modular Platform 
+
++ Management of network components
++ Component implementation
+  
+
+### Component Implementation in the Network
+
+#### (Interface) definition with Human
++ Input Data definition based on requirements
++ Output Data Generation for test purpose
+
+#### (Module) Testing with Human, based on above requirements
++ steps scenario preparation with data input and outputs
+
+#### (Module) Development in Platform
++ based on the above data, reuse, generate or create the code its first iteration manually or with AI
+
+#### (Module) Deployment and Testing in Environment
++ first iteration and go back if not works
+
+#### Implementation (In Network of Modules)
++ first imeplmentation and reimplement, when is ready to work (tested and deployed)
+
+
+
+
+## Tools?
 
 + Opensource [moduleTool](https://moduletool.github.io/docs/)
 + Online free tool, one package from documentation per one day [one day run](https://www.onedayrun.com)
