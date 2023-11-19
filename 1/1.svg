@@ -1,0 +1,51 @@
+#mermaid-svg{font-family:"trebuchet
+ms",verdana,arial,sans-serif;font-size:16px;fill:#333;}#mermaid-svg
+.error-icon{fill:#552222;}#mermaid-svg
+.error-text{fill:#552222;stroke:#552222;}#mermaid-svg
+.edge-thickness-normal{stroke-width:2px;}#mermaid-svg
+.edge-thickness-thick{stroke-width:3.5px;}#mermaid-svg
+.edge-pattern-solid{stroke-dasharray:0;}#mermaid-svg
+.edge-pattern-dashed{stroke-dasharray:3;}#mermaid-svg
+.edge-pattern-dotted{stroke-dasharray:2;}#mermaid-svg
+.marker{fill:#333333;stroke:#333333;}#mermaid-svg
+.marker.cross{stroke:#333333;}#mermaid-svg svg{font-family:"trebuchet
+ms",verdana,arial,sans-serif;font-size:16px;}#mermaid-svg g.classGroup
+text{fill:#9370DB;fill:#131300;stroke:none;font-family:"trebuchet
+ms",verdana,arial,sans-serif;font-size:10px;}#mermaid-svg g.classGroup
+text .title{font-weight:bolder;}#mermaid-svg .nodeLabel,#mermaid-svg
+.edgeLabel{color:#131300;}#mermaid-svg .edgeLabel .label
+rect{fill:#ECECFF;}#mermaid-svg .label text{fill:#131300;}#mermaid-svg
+.edgeLabel .label span{background:#ECECFF;}#mermaid-svg
+.classTitle{font-weight:bolder;}#mermaid-svg .node rect,#mermaid-svg
+.node circle,#mermaid-svg .node ellipse,#mermaid-svg .node
+polygon,#mermaid-svg .node
+path{fill:#ECECFF;stroke:#9370DB;stroke-width:1px;}#mermaid-svg
+.divider{stroke:#9370DB;stroke-width:1;}#mermaid-svg
+g.clickable{cursor:pointer;}#mermaid-svg g.classGroup
+rect{fill:#ECECFF;stroke:#9370DB;}#mermaid-svg g.classGroup
+line{stroke:#9370DB;stroke-width:1;}#mermaid-svg .classLabel
+.box{stroke:none;stroke-width:0;fill:#ECECFF;opacity:0.5;}#mermaid-svg
+.classLabel .label{fill:#9370DB;font-size:10px;}#mermaid-svg
+.relation{stroke:#333333;stroke-width:1;fill:none;}#mermaid-svg
+.dashed-line{stroke-dasharray:3;}#mermaid-svg
+.dotted-line{stroke-dasharray:1 2;}#mermaid-svg
+#compositionStart,#mermaid-svg
+.composition{fill:#333333!important;stroke:#333333!important;stroke-width:1;}#mermaid-svg #compositionEnd,#mermaid-svg .composition{fill:#333333!important;stroke:#333333!important;stroke-width:1;}#mermaid-svg #dependencyStart,#mermaid-svg .dependency{fill:#333333!important;stroke:#333333!important;stroke-width:1;}#mermaid-svg #dependencyStart,#mermaid-svg .dependency{fill:#333333!important;stroke:#333333!important;stroke-width:1;}#mermaid-svg #extensionStart,#mermaid-svg .extension{fill:#ECECFF!important;stroke:#333333!important;stroke-width:1;}#mermaid-svg #extensionEnd,#mermaid-svg .extension{fill:#ECECFF!important;stroke:#333333!important;stroke-width:1;}#mermaid-svg #aggregationStart,#mermaid-svg .aggregation{fill:#ECECFF!important;stroke:#333333!important;stroke-width:1;}#mermaid-svg #aggregationEnd,#mermaid-svg .aggregation{fill:#ECECFF!important;stroke:#333333!important;stroke-width:1;}#mermaid-svg #lollipopStart,#mermaid-svg .lollipop{fill:#ECECFF!important;stroke:#333333!important;stroke-width:1;}#mermaid-svg #lollipopEnd,#mermaid-svg .lollipop{fill:#ECECFF!important;stroke:#333333!important;stroke-width:1;}#mermaid-svg .edgeTerminals{font-size:11px;}#mermaid-svg .classTitleText{text-anchor:middle;font-size:18px;fill:#333;}#mermaid-svg :root{--mermaid-font-family:"trebuchet ms",verdana,arial,sans-serif;}Scale of Services
+Scale of Components
+Scale of Services
+Scale of Components
+Monolith
+Components per Service: 1
+Services: 1
+Microservice
+Components per Service: 1
+Services: 10
+ModularMonolith
+Components per Service: 10
+Services: 1
+HyperModularity
+Components per Service: 10
+Services: 10
+@import
+url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css");
+
