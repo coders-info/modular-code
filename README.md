@@ -250,7 +250,6 @@ So in the next iteration of implementation, the not efficeint module can be repl
 Rewriting messy, interconnected traditional object-oriented applications to give them a good modular design is a hard task. 
 To start designing any application in a modular way, we are talking about a modular network of components or infrastructure that will allow you to build more reliable applications and avoid a lot of manual bookkeeping.
 
-
 ## Modular Design
 
 Modular design begins in an environment where the architecture cannot slowly decay and become unsustainable unnoticed.
@@ -315,13 +314,23 @@ It emphasizes the key attributes of modules in a modular code network, including
 
 
 
-## Expected Outcomes
+### Refactoring
+
+![1](1/.png)
+
 
 | Components per Services | 1                | 10               |
 |-------------------------|------------------|------------------|
 | 1                       | Monolith         | Microservice     |
 | 10                      | Modular Monolith | Hyper Modularity |
-|                         |                  |                  |
+
+
+
+### Software Development Iterations
+
+
+
+![2](2/SoftwareDevelopmentIterations.png)
 
 Quantity of Components on Network Infrastructure 
 + [Components] per Infrastructure
@@ -329,15 +338,12 @@ Quantity of Components on Network Infrastructure
 
 [Networks] of Infrastructure
 
-### Refactoring
-![1](1/.png)
 
 
-### Deployment
-
-![2](2/.png)
 
 
+
+## Expected Outcomes
 
 ![Hypermodular design principle](https://github.com/coders-info/www/assets/5669657/b624c39a-a6ff-4470-9efc-88436e06126a)
 
