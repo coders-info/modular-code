@@ -593,10 +593,19 @@ Modular programming aims to ease software development and maintenance by breakin
 As you can see, the code is generated only at the end, as in the TDD "Test-driven development" principals, because before that you need to define the expected input and output data to verify that the logic performs the expected result on the input data
 
 
-## Modular Component
+## Deifnition of Component
 
 Components promote reusability, modularity, and maintainability, and are integral to modern software architecture design.
+The General definition of [Component-based software engineering - Wikipedia](https://en.wikipedia.org/wiki/Component-based_software_engineering): An individual software component is a software package, a web service, a web resource, or a module that encapsulates a set of related functions or data. 
+
+
+## Modular Component
+
+The modular component is a self-contained unit within a system, characterized by an interface that manages communication between components, a data model that stipulates the expected inputs and outputs along with their respective values, and the underlying logic that encompasses the code responsible for data processing and behavior customization.
+
+
 Modular component is a modular unit with a specific role, designed to be executed within a particular environment, providing an interface that mediates between its internal logic/data handling and the broader system. 
+
 
 ![Component](https://github.com/coders-info/www/assets/5669657/f3b73df8-e2bb-4cdb-a435-dd4f8c1ef5f7)
 
@@ -806,7 +815,7 @@ Additionally, you can practice and experiment with modular programming by creati
 + [Monolithic application - Wikipedia](https://en.wikipedia.org/wiki/Monolithic_application).
 + [Modular Monolith with DDD - GitHub repository](https://github.com/kgrzybek/modular-monolith-with-ddd).
 + [Vertical Slice Architecture - Jimmy Bogard](https://jimmybogard.com/vertical-slice-architecture/).
-
++ [Component-based software engineering - Wikipedia](https://en.wikipedia.org/wiki/Component-based_software_engineering)
 
 ## Author
 
