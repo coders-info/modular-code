@@ -316,7 +316,7 @@ It emphasizes the key attributes of modules in a modular code network, including
 
 ### Refactoring
 
-![1](1/.png)
+![1](1/1.png)
 
 
 | Components per Services | 1                | 10               |
