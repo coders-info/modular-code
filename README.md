@@ -3,6 +3,7 @@
 From #clean ideas to code #smells ... Let's talk about The Pragmatic Development based on [HyperModularity](https://wiki.opensourceecology.org/wiki/Hypermodularity)
 
 
+
 ## Menu
 
 
@@ -110,6 +111,9 @@ That flowchart represents the software development life cycle with its stages an
 
 ![sdlc2](https://github.com/coders-info/www/assets/5669657/c13803af-7335-41fb-8c4d-33e096d4d055)
 
+
+## Modularity
+![Modularity](https://github.com/coders-info/www/assets/5669657/00426e02-39eb-4b4c-9ec4-0c3426cb608f) 
 
 ## Modular OOP
 
