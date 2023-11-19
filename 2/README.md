@@ -1,4 +1,4 @@
-```bash
+```mermaid
 quadrantChart
     title Software Development Iterations
     x-axis One Deployment --> Many Deployments
