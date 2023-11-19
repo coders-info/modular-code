@@ -314,14 +314,50 @@ It emphasizes the key attributes of modules in a modular code network, including
 + Protocol communication
 
 
+
 ## Expected Outcomes
 
+| Components per Services | 1                | 10               |   |   |
+|-------------------------|------------------|------------------|---|---|
+| 1                       | Monolith         | Microservice     |   |   |
+| 10                      | Modular Monolith | Hyper Modularity |   |   |
+|                         |                  |                  |   |   |
+
+Quantity of Components on Network Infrastructure 
++ [Components] per Infrastructure
++ Components per [Services] 
+
+[Networks] of Infrastructure
+  
 ![Hypermodular design principle](https://github.com/coders-info/www/assets/5669657/b624c39a-a6ff-4470-9efc-88436e06126a)
 
 
 Hypermodular design principle of creating complex systems from smaller, easily managed, interchangeable and often standardized parts or modules, offers more of flexibility, customization, interchangeability, and scalability.
 By following the modular design principles, developers should aim for the larger framework by ensuring the code structure remains consistent and the product becomes maintainable and scalable.
 
+
+
+A monolith that serves many services does not strictly adhere to the microservices architectural style, since the core principle of microservices is that they are independent and loosely coupled. 
+
+However, in practical scenarios, especially during the evolution of a system from a monolithic architecture to microservices, you might have a hybrid situation where a monolithic application interacts with or serves multiple microservices.
+
+In such a setup, the monolith and the microservices might interact in any number of ways – the monolith could be an entry point that routes requests to various microservices, or it could invoke microservices to handle specific tasks. 
+
+This transitional or mixed state can be referred to using several terms:
+
+1. **Hybrid Architecture:** This term is commonly used to describe a system that has characteristics of both monolithic and microservices architectures. It features a core monolithic application that is complemented by a set of microservices.
+
+2. **Modular Monolith:** If the monolith has been refactored internally to have modular components that are somewhat similar to microservices but are not independently deployable, it might be termed a modular monolith. 
+
+3. **Layered Monolith:** Sometimes, the monolithic application may serve as a layer (such as the presentation layer or business logic layer) and calls the microservices that represent other layers (such as data access or specialized services).
+
+4. **Monolith as a Microservices Client:** In this pattern, the monolithic application acts similarly to any other external client that consumes microservices.
+
+5. **Monolithic Gateway or BFF (Backend for Frontend):** When the monolith handles client connections and simply forwards requests to the appropriate microservices (often while handling concerns like authentication and logging), it may be referred to as a gateway or a "backend for frontend".
+
+6. **Orchestrator:** If the monolith is managing the workflow or business process that involves calling multiple microservices in a certain order to fulfill a higher-level business function, it can be seen as an orchestrator.
+
+It's worth noting that there is no strict technical term for a monolith that serves many microservices since it represents a state that often exists during a migration towards a more microservice-centric architecture, which most organizations tend to see as temporary. However, in some cases, if the monolith serves its purpose efficiently and offers good maintainability, performance, and scalability, the organization might deliberately choose to continue with a hybrid approach long-term.
 
 
 
