@@ -160,7 +160,8 @@ Overall, the trend towards assembling applications from independently developed 
 
 
 
-## Modular Structure
+
+## Modular Values
 
 + Complexity
   + Network
@@ -176,16 +177,84 @@ Overall, the trend towards assembling applications from independently developed 
 
 ## Modular Requirements
 
-+ **Contextuality** - context of usage, interface is a part of environment not Logic or Data
-+ **Complexity** is about network coverage to suit the customer's needs
+#### System
++ **Modularity** is about the interaction between networks, rather than between components
+  
+#### Network
++ map of **Contextuality** - context of usage, interface is a part of environment not Logic or Data
++ manage **Complexity** is about network coverage to suit the customer's needs
+
+### Component  
 + **Reusability** is possible when the interface, Data and Logic are separated and are not part of logic, the interface is adapted to the data and logic
-+ **Specialization** is about code responsibility
++ **Specialization** is when code is responsible for the purpose of its existence
+
 
 
 ## Modular Architecture
 
 + **IaaC** - **Infrastructure as a Code** - Definition of Environment, Interface based on **MetaModules** and DevOps tools
 + **FaaS** - **Function as a Service** - logic and data models are used through the FaaS platform through DNS configuration: CNAME provieder, TXT configuration
+
+
+Network is created thorugh connected Components betwen its Interfaces
+
+## Modular Application
+
+Applications are growing in size and functionality and software quality is improved by splitting them into modules.
+Separated piece then becomes one element of the modular architecture, each piece should be isolated by interface:
+
++ components - we are using in the context Network of Source Code
+  + modules - inside the **component**
+  + plugins - outside the **component** as part of system, environment, platform
+
+
+Modular applications are composed of modules.
+That module can be not efficient with wrong practice, etc.., but the architecture of an application can be observed by checking the dependencies among all its modules.
+So in the next iteration of implementation, the not efficeint module can be replaced.
+
+## Modular vs OOP Application
+
+Rewriting messy, interconnected traditional object-oriented applications to give them a good modular design is a hard task. 
+To start designing any application in a modular way, we are talking about a modular network of components or infrastructure that will allow you to build more reliable applications and avoid a lot of manual bookkeeping.
+
+
+## Modular Design
+
+Modular design begins in an environment where the architecture cannot slowly decay and become unsustainable unnoticed.
+If you create a new dependency between two parts of a modular application, you need to perform several explicit gestures to configure this dependency.
+This can't happen by accident.
+While this is not a cure for sloppy designs, it is an environment that encourages thoughtful design.
+
+Modularity provides systems with a clearer design and control over module interdependencies; it also gives developers more flexibility in maintenance.
+Take this into account when starting a new project – regardless of the initial scope of the project.
+The modular design will have huge benefits for the architecture of the entire application as it will evolve from scratch.
+The real benefits of modular programming may not be apparent in the first version of the application.
+But they will become obvious later, as development costs for subsequent versions are reduced.
+
+
+
+## Microservices and Modularity
+
+Modular software architecture limiting the risk of creeping coupledness (also known as tight coupling) by enforcing boundaries between components and requiring them to interact through well-defined Application Programming Interfaces (APIs). 
+
+Here are some ways in which modular software achieves this:
+
+1. **Encapsulation:** Each module encapsulates its functionality, hiding its internal workings from other modules. Other components interact with the module through its API, which is the only exposed interface, thus reducing the risk of dependencies on internal structures or behaviors.
+
+2. **Contract-Based Design:** When modules communicate through APIs, they adhere to a contract that specifies what inputs are expected and what outputs should be provided. This contract ensures that as long as the API's contract is maintained, changes within one module do not adversely affect others.
+
+3. **Versioning:** When an API changes in a way that breaks backward compatibility, proper versioning helps to ensure that dependent components can continue to operate. This allows developers to update and improve their modules without immediately forcing all other components to adapt.
+
+4. **Loose Coupling:** Loose coupling is a design principle aimed at reducing the interdependencies among components of a system, making them easier to replace, modify, and scale independently. API contracts play a critical role in maintaining this loose coupling by serving as a stable point of interaction.
+
+5. **Dependency Inversion Principle:** This principle, part of the SOLID principles for object-oriented design, suggests that high-level modules should not depend on low-level modules; both should depend on abstractions (e.g., interfaces). Abstractions should not depend on details; details should depend on abstractions. This principle applies well to the notion of API contracts as a form of abstraction.
+
+6. **Interface Segregation Principle:** Another of the SOLID principles, it states that a client should never be forced to depend on interfaces it does not use. This principle drives the design of focused API contracts that serve specific purposes without unnecessary coupling to unrelated functions.
+
+7. **Interoperability:** Even when different modules are implemented in different programming languages or run on different systems, a clear API contract allows them to work together seamlessly. This makes it easier to integrate and replace components as needed.
+
+By adhering to these principles and using well-defined API contracts, modular software can grow and evolve with reduced risk of becoming a tangled, tightly coupled system that is hard to understand, maintain, and scale. It also aids in the division of labor among development teams, as different teams can work on different modules simultaneously, with clear boundaries and interfaces between their respective pieces of the application.
+
 
 
 ## Modular Principles
