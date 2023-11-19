@@ -330,7 +330,7 @@ It emphasizes the key attributes of modules in a modular code network, including
 
 
 
-![2](2/SoftwareDevelopmentIterations.png)
+![3](3/SoftwareDevelopmentIterations3.png)
 
 Quantity of Components on Network Infrastructure 
 + [Components] per Infrastructure
