@@ -603,7 +603,13 @@ Meanwhile, companies and governments must be aware of the potential perils of th
 
 ## How to learn more about modular programming?
 
-To learn more about modular programming, you can read books and articles that cover the theory and practice of it, such as "Modular Programming with Python" by Erik Westra or "The Art of Modular Programming" by David H. Marlow. You can also watch videos and courses that demonstrate the concepts and techniques of modular programming, such as "Modular Programming in Java 9" by Koushik Kothagal or "Python 3: Project-based Python, Algorithms, Data Structures" by Andrei Dumitrescu. Additionally, you can practice and experiment with modular programming by creating your own projects or joining existing ones on online platforms and communities such as GitHub, CodePen, or Stack Overflow.
+To learn more about modular programming, you can read books and articles about its theory and practice, such as
+"Modular Programming with Python" by Erik Westra or "The Art of Modular Programming" by David H. Marlow.
+You can also watch videos and courses that demonstrate modular programming concepts and techniques, such as
+"Modular Programming in Java 9" by Koushik Kothagal or "Python 3: Project-Based Python, Algorithms, Data Structures" by Andrea Dumitrescu. 
+
+Additionally, you can practice and experiment with modular programming by creating your own projects or joining existing ones on online platforms and communities such as GitHub, CodePen or Stack Overflow.
+
 
 + more about [HyperModularity](https://www.hypermodularity.com/) in draft of book
 
