@@ -329,7 +329,6 @@ It emphasizes the key attributes of modules in a modular code network, including
 ### Software Development Iterations
 
 
-
 ![3](3/SoftwareDevelopmentIterations3.png)
 
 Quantity of Components on Network Infrastructure 
@@ -344,9 +343,6 @@ Quantity of Components on Network Infrastructure
 
 
 ## Expected Outcomes
-
-![Hypermodular design principle](https://github.com/coders-info/www/assets/5669657/b624c39a-a6ff-4470-9efc-88436e06126a)
-
 
 Hypermodular design principle of creating complex systems from smaller, easily managed, interchangeable and often standardized parts or modules, offers more of flexibility, customization, interchangeability, and scalability.
 By following the modular design principles, developers should aim for the larger framework by ensuring the code structure remains consistent and the product becomes maintainable and scalable.
