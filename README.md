@@ -317,24 +317,33 @@ It emphasizes the key attributes of modules in a modular code network, including
 
 ## Expected Outcomes
 
-| Components per Services | 1                | 10               |   |   |
-|-------------------------|------------------|------------------|---|---|
-| 1                       | Monolith         | Microservice     |   |   |
-| 10                      | Modular Monolith | Hyper Modularity |   |   |
-|                         |                  |                  |   |   |
+| Components per Services | 1                | 10               |
+|-------------------------|------------------|------------------|
+| 1                       | Monolith         | Microservice     |
+| 10                      | Modular Monolith | Hyper Modularity |
+|                         |                  |                  |
 
 Quantity of Components on Network Infrastructure 
 + [Components] per Infrastructure
 + Components per [Services] 
 
 [Networks] of Infrastructure
-  
+
+### Refactoring
+![1](1/.png)
+
+
+### Deployment
+
+![2](2/.png)
+
+
+
 ![Hypermodular design principle](https://github.com/coders-info/www/assets/5669657/b624c39a-a6ff-4470-9efc-88436e06126a)
 
 
 Hypermodular design principle of creating complex systems from smaller, easily managed, interchangeable and often standardized parts or modules, offers more of flexibility, customization, interchangeability, and scalability.
 By following the modular design principles, developers should aim for the larger framework by ensuring the code structure remains consistent and the product becomes maintainable and scalable.
-
 
 
 A monolith that serves many services does not strictly adhere to the microservices architectural style, since the core principle of microservices is that they are independent and loosely coupled. 
