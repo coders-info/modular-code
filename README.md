@@ -449,6 +449,12 @@ To learn more about modular programming, you can read books and articles that co
 
 + Hyper Modules Developer [Tom Sapletta](https://tom.sapletta.com/) 
 
+## Meta
+
++ [Hypermodular architecture](http://www.coders.info/#Hypermodular-architecture)
++ [Hyperspecialization](http://www.coders.info/#Hyperspecialization)
++ [Hyperscaling](http://www.coders.info/#Hyperscaling)
++ [hypermodularity](http://www.coders.info/#hypermodularity)
   
 ---
 
