@@ -198,6 +198,28 @@ Overall, the trend towards assembling applications from independently developed 
 
 Network is created thorugh connected Components betwen its Interfaces
 
+## Modular Interface
+
+An interface, in the context of software development, is defined as a shared boundary across which two separate components of a computer system exchange information. The concept of an interface can be applied in various contexts within software development:
+
+1. **Webservice/API:** This refers to a set of rules and specifications that a software system can follow to communicate with other software systems. It defines the methods and data formats that should be used for interacting with the service over the internet or a network. These are often described in specifications such as OpenAPI for RESTful services or WSDL for SOAP services.
+
+    - **Expected Input:** It usually consists of an endpoint, parameters (e.g., query parameters, headers, request body), and the request method (e.g., GET, POST, PUT, DELETE).
+    
+    - **Expected Output:** The output is typically a response including a status code (e.g., 200 OK, 404 Not Found), headers, and a body that contains the data being returned, which is often in a standardized format like JSON or XML.
+
+2. **OOP Interface:** In object-oriented programming, an interface is a defined set of methods that a class can implement. Unlike a class, an interface does not contain any implementation details itself—it only defines method signatures. When a class implements an interface, it agrees to provide implementations for all the methods declared by the interface.
+
+    - **Expected Input:** The input refers to the parameters that the methods of the interface accept. These must be provided when invoking a method.
+
+    - **Expected Output:** The output is the return type specified by each method in the interface. Implementing classes must return the appropriate type when the method is called.
+
+Interfaces are critical because they provide a contract that a component, class, or service must follow, ensuring that any other component, class, or service that interacts with it knows exactly what to expect in terms of inputs and outputs, regardless of the internal implementation. This standardization simplifies the process of integrating different software components, as developers only need to understand the interface to use the functionality provided.
+
+In both cases, adhering to a standardized definition of interfaces helps ensure interoperability, promotes loose coupling, and enhances the reusability of components across different systems. It also makes it easier to perform unit testing and to develop components in parallel since interfaces can be mocked or stubbed out for testing purposes.
+
+
+
 ## Modular Application
 
 Applications are growing in size and functionality and software quality is improved by splitting them into modules.
@@ -209,10 +231,19 @@ Separated piece then becomes one element of the modular architecture, each piece
   
 A module is simply a unit of code that you can "plug" into Platform
 
+A component can be used in the system as:
++ package in npm, nuget
++ application in a web network or standalone
 
+An Interface can be described by Standardized definition of expected input and output Data
++ webservice, API
++ OOP Interface
+  
 Modular applications are composed of modules.
 That module can be not efficient with wrong practice, etc.., but the architecture of an application can be observed by checking the dependencies among all its modules.
 So in the next iteration of implementation, the not efficeint module can be replaced.
+
+
 
 ## Modular vs OOP Application
 
