@@ -334,12 +334,51 @@ It emphasizes the key attributes of modules in a modular code network, including
 
 ![3](3/SoftwareDevelopmentIterations3.png)
 
-Quantity of Components on Network Infrastructure 
-+ [Components] per Infrastructure
-+ Components per [Services] 
+1. **Simplicity**: It provides a straightforward, single-tiered development and deployment model, which can be easier to manage, test, and deploy, especially for smaller applications or teams.
 
-[Networks] of Infrastructure
+2. **Low Reusability**: The tightly coupled nature of the components means that they are often not designed to be reusable as independent services or modules. Changes in one area can have ripple effects throughout the application, making it difficult to isolate components for reuse in different contexts.
 
+While this traditional approach to software design has its advantages, especially when starting a new project or working within a small team, it may not offer the flexibility and scalability provided by more modular architectures. As applications grow, a monolith can become challenging to maintain, and organizations may look to refactoring toward more modular or microservice-oriented architectures to increase maintainability and enable easier reuse of components.
+
+### High simplicity and low reusabilit
+
+High simplicity and low reusability in software development often refer to practices or structures that are easy to understand and work with but are difficult to extract for use in different contexts or projects. 
+Here are some examples:
+
+1. **Monolithic Applications:**
+   A single-tiered, self-contained application with all components integrated into a cohesive unit. Due to tight coupling, components aren't typically reusable in other systems.
+
+2. **Scripting and Automation Scripts:**
+   Simple scripts written to perform one-off tasks or automate specific workflows. They're usually written quickly for a particular use case and lack the generalization needed for reuse.
+
+3. **Single-use Libraries or Classes:**
+   Custom libraries or classes designed to solve a specific problem in a specific context. They're not intended or architected for broader reuse outside of their original application.
+
+4. **Inline Code:**
+   Code written inline without modular functions or classes, often seen in smaller or less complex scripts. This code is directly tied to its context and thus has low reuse potential.
+
+5. **Hardcoded Configurations:**
+   Settings or configuration values hardcoded within the application code. This approach is simple, but it ties the configuration closely to the specific deployment, making reuse in different environments or for different instances of the applications difficult.
+
+6. **Procedural Code:**
+   Procedural or imperative programming without significant abstraction. The straightforward approach may be simple in its readability and understanding but can result in code that's less modular and harder to reuse as stand-alone components.
+
+7. **Non-generic Algorithms:**
+   Algorithm implementations that are highly specialized for a particular kind of data or problem and are not designed to be adapted easily for other purposes.
+
+8. **Standalone Desktop Applications:**
+   Applications that are specifically designed for a single user or a specific task and are not necessarily built with component reusability in mind.
+
+9. **Flat File Processing:**
+   Simple flat file processing scripts or routines that perform operations on a specific file structure without any abstraction to handle different file formats or structures.
+
+10. **Proof of Concept (PoC) Code:**
+    Code written during an exploratory phase of development for the purpose of demonstrating a concept. PoCs are often quick and dirty implementations that aren't meant to be reusable.
+
+These examples emphasize simplicity in their designs or implementations, aiming to get the job done with minimal overhead. However, as they are often tailored for specific scenarios and may lack the abstraction or modularity required for reuse, they exhibit low reusability. As systems scale or needs evolve, developers often refactor such code to increase modularity and reusability while trying to retain as much simplicity as possible.
+
+
+### Simplicity
 Simplicity in software development typically refers to designing and implementing systems that are easy to understand, maintain, and modify. The concept of simplicity touches upon several aspects of software engineering, including the design, the code, the architecture, and even the user interface. Here are some key elements that reflect simplicity in software development:
 
 1. **Ease of Understanding:** A simple system is one that developers can easily comprehend. The easier it is for a new developer to understand how a system works, the simpler the system is considered to be.
@@ -365,6 +404,8 @@ Simplicity in software development typically refers to designing and implementin
 11. **User Interface Design:** For end-user software, simplicity can also mean creating an interface that is intuitive to use without extensive training or documentation.
 
 In essence, simplicity in software development is about minimizing complexity at all levels. It's a guiding principle that can lead to software that is robust, efficient, cost-effective to maintain, and adaptable to change. It aligns well with several principles of software design such as KISS (Keep It Simple, Stupid), Occam's Razor (preferences for simplicity in problem-solving), and the aforementioned YAGNI.
+
+
 
 
 
