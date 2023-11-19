@@ -2,6 +2,17 @@
 
 From #clean ideas to code #smells ... Let's talk about The Pragmatic Development based on [HyperModularity](https://wiki.opensourceecology.org/wiki/Hypermodularity)
 
+
+## Menu
+
++ [Hypermodular architecture](http://www.coders.info/#Hypermodular%20architecture)
++ [Hyperspecialization](http://www.coders.info/#Hyperspecialization)
++ [Hyperscaling](http://www.coders.info/#Hyperscaling)
++ [hypermodularity](http://www.coders.info/#hypermodularity)
++ [modular code](http://www.coders.info/#modular%20code)
++ [modular programming](http://www.coders.info/#modular%20programming)
+
+  
 ## Code Expectations
 
 ### everyone expect:
@@ -449,12 +460,6 @@ To learn more about modular programming, you can read books and articles that co
 
 + Hyper Modules Developer [Tom Sapletta](https://tom.sapletta.com/) 
 
-## Meta
-
-+ [Hypermodular architecture](http://www.coders.info/#Hypermodular-architecture)
-+ [Hyperspecialization](http://www.coders.info/#Hyperspecialization)
-+ [Hyperscaling](http://www.coders.info/#Hyperscaling)
-+ [hypermodularity](http://www.coders.info/#hypermodularity)
   
 ---
 
