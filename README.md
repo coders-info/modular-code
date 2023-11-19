@@ -111,6 +111,36 @@ That flowchart represents the software development life cycle with its stages an
 ![sdlc2](https://github.com/coders-info/www/assets/5669657/c13803af-7335-41fb-8c4d-33e096d4d055)
 
 
+## Modular OOP
+
+The idea is to enable the user to build components that can be integrated and reused in a simple and quick way.
+
+Unlike modular programming, traditional custom coding increases the risk of errors.
+
+Programmers typically start programming at the top and execute all the code one line or rung at a time and then start over.
+The more extensive the code is, the more unstable it becomes.
+Object-oriented modular programming improves on traditional monolithic programming methods by breaking code into objects and then defining the interface between the objects.
+
+It also helps maintain the code isolation that defines the concept of abstraction.
+OOP appears to be widely accepted among vendors.
+It allows users to keep track of where their data is while the program is executing.
+Encapsulation and abstraction reduce complex code to simple blocks with inputs and outputs.
+
+For example, an advanced programmer creating a custom PID loop or a complex block of math functions can pass code between modules without fear of making a mistake when rewriting the software.
+When combined with a well-built code version control system, modular software becomes a powerful tool.
+
+### Home automation software
+
+Many vendors now provide modular software code, such as device drivers, communication interfaces, and software support packages, that help OEMs build code libraries.
+An OEM will often review a vendor's software modules and then decide to use a particular vendor for future applications, which provides a strong incentive for vendors to provide free modular code to their customers.
+
+By applying modular design techniques, OEMs and their customers derive cumulative benefits from the efforts of the international standards organization, automation supplier and solution provider.
+
+### Code provided by the supplier
+
+The supplier can provide modular software for applications where machines and robots need to communicate with higher-level applications.
+Hyper Modular Designer can provide the concept of abstraction layers to build vendor-provided code
+
 
 
 ## Modular source code of network
