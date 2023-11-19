@@ -317,7 +317,7 @@ It emphasizes the key attributes of modules in a modular code network, including
 
 
 
-### Refactoring
+## Refactoring
 
 ![1](1/1.png)
 
@@ -327,9 +327,14 @@ It emphasizes the key attributes of modules in a modular code network, including
 | 1                       | Monolith         | Microservice     |
 | 10                      | Modular Monolith | Hyper Modularity |
 
+### [Networks] of Infrastructure
+Quantity of Components on Network Infrastructure
++ [Components] per Infrastructure
++ Components per [Services]
 
 
-### Software Development Iterations
+
+## Software Development Iterations
 
 
 ![3](3/SoftwareDevelopmentIterations3.png)
@@ -340,7 +345,37 @@ It emphasizes the key attributes of modules in a modular code network, including
 
 While this traditional approach to software design has its advantages, especially when starting a new project or working within a small team, it may not offer the flexibility and scalability provided by more modular architectures. As applications grow, a monolith can become challenging to maintain, and organizations may look to refactoring toward more modular or microservice-oriented architectures to increase maintainability and enable easier reuse of components.
 
-### High simplicity and low reusabilit
+### Simplicity
+
+Simplicity in software development typically refers to designing and implementing systems that are easy to understand, maintain, and modify. The concept of simplicity touches upon several aspects of software engineering, including the design, the code, the architecture, and even the user interface. Here are some key elements that reflect simplicity in software development:
+
+1. **Ease of Understanding:** A simple system is one that developers can easily comprehend. The easier it is for a new developer to understand how a system works, the simpler the system is considered to be.
+
+2. **Clean and Readable Code:** Code that is straightforward, well-commented, and adheres to consistent coding standards is easier to read and understand, which contributes to the overall simplicity of the system.
+
+3. **Minimalistic Design:** A design that achieves the desired outcomes with the least amount of complexity and the fewest components necessary is considered simple. This involves avoiding over-engineering and unnecessary features (YAGNI – You Aren't Gonna Need It).
+
+4. **Modularity:** Breaking down the system into clearly defined, cohesive, and loosely coupled modules can make it simpler by allowing developers to focus on one piece of the system at a time without needing to understand the entire codebase.
+
+5. **Ease of Maintenance:** Simple systems are easier to maintain and fix since the complexity is minimized, making it easier to isolate issues and implement changes.
+
+6. **Straightforward Architecture:** An architectural style that is intuitive and obvious without complex dependencies or interactions between components often reflects simplicity.
+
+7. **Ease of Testing:** Simpler systems are often easier to test because their behaviors are more predictable, and there are fewer edge cases to consider.
+
+8. **Ease of Deployment:** The simpler the deployment process, the fewer steps required, and the less room there is for errors, which contributes to overall system simplicity.
+
+9. **Documentation:** Good documentation can greatly contribute to perceived simplicity by making it clear how to use the system and how it works internally.
+
+10. **Avoiding Premature Optimization:** Resisting the urge to optimize before it's clear that performance is an issue helps maintain simplicity. Premature optimization can introduce unnecessary complexity.
+
+11. **User Interface Design:** For end-user software, simplicity can also mean creating an interface that is intuitive to use without extensive training or documentation.
+
+In essence, simplicity in software development is about minimizing complexity at all levels. It's a guiding principle that can lead to software that is robust, efficient, cost-effective to maintain, and adaptable to change. It aligns well with several principles of software design such as KISS (Keep It Simple, Stupid), Occam's Razor (preferences for simplicity in problem-solving), and the aforementioned YAGNI.
+
+
+
+### High simplicity and low reusability
 
 High simplicity and low reusability in software development often refer to practices or structures that are easy to understand and work with but are difficult to extract for use in different contexts or projects. 
 Here are some examples:
@@ -376,36 +411,6 @@ Here are some examples:
     Code written during an exploratory phase of development for the purpose of demonstrating a concept. PoCs are often quick and dirty implementations that aren't meant to be reusable.
 
 These examples emphasize simplicity in their designs or implementations, aiming to get the job done with minimal overhead. However, as they are often tailored for specific scenarios and may lack the abstraction or modularity required for reuse, they exhibit low reusability. As systems scale or needs evolve, developers often refactor such code to increase modularity and reusability while trying to retain as much simplicity as possible.
-
-
-### Simplicity
-Simplicity in software development typically refers to designing and implementing systems that are easy to understand, maintain, and modify. The concept of simplicity touches upon several aspects of software engineering, including the design, the code, the architecture, and even the user interface. Here are some key elements that reflect simplicity in software development:
-
-1. **Ease of Understanding:** A simple system is one that developers can easily comprehend. The easier it is for a new developer to understand how a system works, the simpler the system is considered to be.
-
-2. **Clean and Readable Code:** Code that is straightforward, well-commented, and adheres to consistent coding standards is easier to read and understand, which contributes to the overall simplicity of the system.
-
-3. **Minimalistic Design:** A design that achieves the desired outcomes with the least amount of complexity and the fewest components necessary is considered simple. This involves avoiding over-engineering and unnecessary features (YAGNI – You Aren't Gonna Need It).
-
-4. **Modularity:** Breaking down the system into clearly defined, cohesive, and loosely coupled modules can make it simpler by allowing developers to focus on one piece of the system at a time without needing to understand the entire codebase.
-
-5. **Ease of Maintenance:** Simple systems are easier to maintain and fix since the complexity is minimized, making it easier to isolate issues and implement changes.
-
-6. **Straightforward Architecture:** An architectural style that is intuitive and obvious without complex dependencies or interactions between components often reflects simplicity.
-
-7. **Ease of Testing:** Simpler systems are often easier to test because their behaviors are more predictable, and there are fewer edge cases to consider.
-
-8. **Ease of Deployment:** The simpler the deployment process, the fewer steps required, and the less room there is for errors, which contributes to overall system simplicity.
-
-9. **Documentation:** Good documentation can greatly contribute to perceived simplicity by making it clear how to use the system and how it works internally.
-
-10. **Avoiding Premature Optimization:** Resisting the urge to optimize before it's clear that performance is an issue helps maintain simplicity. Premature optimization can introduce unnecessary complexity.
-
-11. **User Interface Design:** For end-user software, simplicity can also mean creating an interface that is intuitive to use without extensive training or documentation.
-
-In essence, simplicity in software development is about minimizing complexity at all levels. It's a guiding principle that can lead to software that is robust, efficient, cost-effective to maintain, and adaptable to change. It aligns well with several principles of software design such as KISS (Keep It Simple, Stupid), Occam's Razor (preferences for simplicity in problem-solving), and the aforementioned YAGNI.
-
-
 
 
 
