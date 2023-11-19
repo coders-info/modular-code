@@ -5,6 +5,7 @@ From #clean ideas to code #smells ... Let's talk about The Pragmatic Development
 
 ## Menu
 
+
 + [Hypermodular architecture](http://www.coders.info/#Hypermodular%20architecture)
 + [Hyperspecialization](http://www.coders.info/#Hyperspecialization)
 + [Hyperscaling](http://www.coders.info/#Hyperscaling)
@@ -12,6 +13,8 @@ From #clean ideas to code #smells ... Let's talk about The Pragmatic Development
 + [modular code](http://www.coders.info/#modular%20code)
 + [modular programming](http://www.coders.info/#modular%20programming)
 
++ [Adoption](http://www.coders.info/#Hypermodular%adoption)
++ [Reusability](http://www.coders.info/#Hypermodular%Reusability)
 
 Popular Approach
 + SDLC today
