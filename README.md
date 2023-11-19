@@ -16,13 +16,16 @@ From #clean ideas to code #smells ... Let's talk about The Pragmatic Development
 + [Adoption](http://www.coders.info/#Hypermodular%adoption)
 + [Reusability](http://www.coders.info/#Hypermodular%Reusability)
 
+
 Popular Approach
 + SDLC today
 + Current Teamwork
 
+
 Modular Approach
 + Modular SDLC
 + Modular Teamwork
+  
   
 ## Code Expectations
 
