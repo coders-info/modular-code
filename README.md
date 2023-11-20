@@ -133,7 +133,7 @@ Encapsulation and abstraction reduce complex code to simple blocks with inputs a
 For example, an advanced programmer creating a custom PID loop or a complex block of math functions can pass code between modules without fear of making a mistake when rewriting the software.
 When combined with a well-built code version control system, modular software becomes a powerful tool.
 
-### Home automation software
+### Automated Software house
 
 Many vendors now provide modular software code, such as device drivers, communication interfaces, and software support packages, that help OEMs build code libraries.
 An OEM will often review a vendor's software modules and then decide to use a particular vendor for future applications, which provides a strong incentive for vendors to provide free modular code to their customers.
