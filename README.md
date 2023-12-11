@@ -819,11 +819,19 @@ Additionally, you can practice and experiment with modular programming by creati
 + [Vertical Slice Architecture - Jimmy Bogard](https://jimmybogard.com/vertical-slice-architecture/).
 + [Component-based software engineering - Wikipedia](https://en.wikipedia.org/wiki/Component-based_software_engineering)
 
+---
+
+## Keywords
+
++ Modular architecture
++ Design patterns
++ ...
+
+
 ## Author
 
 + Hyper Modules Developer [Tom Sapletta](https://tom.sapletta.com/) 
 
-  
 ## Contributions
 
 + [edit](https://github.com/coders-info/www/edit/main/README.md)
