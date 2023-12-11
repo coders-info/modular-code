@@ -14,9 +14,11 @@ From #clean ideas to code #smells ... Let's talk about The Pragmatic Development
 + [modular code](http://www.coders.info/#modular%20code)
 + [modular programming](http://www.coders.info/#modular%20programming)
 
-+ [Adoption](http://www.coders.info/#Hypermodular%adoption)
-+ [Reusability](http://www.coders.info/#Hypermodular%Reusability)
-
++ [Design](http://www.coders.info/Design)
++ [Adoption](http://www.coders.info/Adoption)
++ [Modularity](http://www.coders.info/Modularity)
++ [Reusability](http://www.coders.info/Reusability)
+  
 
 Popular Approach
 + SDLC today
@@ -822,7 +824,8 @@ Additionally, you can practice and experiment with modular programming by creati
 + Hyper Modules Developer [Tom Sapletta](https://tom.sapletta.com/) 
 
   
----
+## Contributions
 
 + [edit](https://github.com/coders-info/www/edit/main/README.md)
-+ [project](https://github.com/coders-info/)
++ [issue](https://github.com/coders-info/www/issues/new)
++ [all projects](https://github.com/coders-info/)
