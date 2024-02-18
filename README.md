@@ -623,7 +623,7 @@ This is the hyper modular network of code ...
 ![Modular Components](https://github.com/coders-info/www/assets/5669657/a31c890b-5007-43d9-b623-dafbd6f3fef4)
 
 
-+ [ModularComponents.mp4](ModularComponents.mp4)
++ [ModularComponents.mp4 animation](ModularComponents.mp4)
 
 
 ## Hypermodular SDLC
