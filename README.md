@@ -1,6 +1,6 @@
 # [Modular Code by Hypermodularity](https://www.coders.info/)
 
-From #clean ideas to code #smells ... Let's talk about The Pragmatic Development based on [HyperModularity](https://wiki.opensourceecology.org/wiki/Hypermodularity)
+From CLEAN ideas to code SMELLs ... Let's talk about The Pragmatic Development based on [HyperModularity](https://wiki.opensourceecology.org/wiki/Hypermodularity)
 
 
 
