@@ -9,15 +9,6 @@ From #clean ideas to code #smells ... Let's talk about The Pragmatic Development
 
 + [Hypermodular architecture](http://www.coders.info/#Hypermodular%20architecture)
 + [Hyperspecialization](http://www.coders.info/#Hyperspecialization)
-+ [Hyperscaling](http://www.coders.info/#Hyperscaling)
-+ [hypermodularity](http://www.coders.info/#hypermodularity)
-+ [modular code](http://www.coders.info/#modular%20code)
-+ [modular programming](http://www.coders.info/#modular%20programming)
-
-+ [Design](http://www.coders.info/Design)
-+ [Adoption](http://www.coders.info/Adoption)
-+ [Modularity](http://www.coders.info/Modularity)
-+ [Reusability](http://www.coders.info/Reusability)
   
 
 Popular Approach
@@ -819,6 +810,16 @@ Additionally, you can practice and experiment with modular programming by creati
 + [Vertical Slice Architecture - Jimmy Bogard](https://jimmybogard.com/vertical-slice-architecture/).
 + [Component-based software engineering - Wikipedia](https://en.wikipedia.org/wiki/Component-based_software_engineering)
 
++ [Hyperscaling](http://www.coders.info/#Hyperscaling)
++ [hypermodularity](http://www.coders.info/#hypermodularity)
++ [modular code](http://www.coders.info/#modular%20code)
++ [modular programming](http://www.coders.info/#modular%20programming)
+
++ [Design](http://www.coders.info/Design)
++ [Adoption](http://www.coders.info/Adoption)
++ [Modularity](http://www.coders.info/Modularity)
++ [Reusability](http://www.coders.info/Reusability)
+  
 ---
 
 ## Keywords
