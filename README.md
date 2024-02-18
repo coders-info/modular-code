@@ -3,14 +3,6 @@
 From CLEAN ideas to code SMELLs ... Let's talk about The Pragmatic Development based on [HyperModularity](https://wiki.opensourceecology.org/wiki/Hypermodularity)
 
 
-
-## Menu
-
-
-+ [Hypermodular architecture](http://www.coders.info/#Hypermodular%20architecture)
-+ [Hyperspecialization](http://www.coders.info/#Hyperspecialization)
-  
-
 Popular Approach
 + SDLC today
 + Current Teamwork
@@ -810,6 +802,15 @@ Additionally, you can practice and experiment with modular programming by creati
 + [Vertical Slice Architecture - Jimmy Bogard](https://jimmybogard.com/vertical-slice-architecture/).
 + [Component-based software engineering - Wikipedia](https://en.wikipedia.org/wiki/Component-based_software_engineering)
 
+
+
+## Menu
+
+
++ [Hypermodular architecture](http://www.coders.info/#Hypermodular%20architecture)
++ [Hyperspecialization](http://www.coders.info/#Hyperspecialization)
+
+  
 + [Hyperscaling](http://www.coders.info/#Hyperscaling)
 + [hypermodularity](http://www.coders.info/#hypermodularity)
 + [modular code](http://www.coders.info/#modular%20code)
