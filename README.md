@@ -1,7 +1,6 @@
+![Modular Code by Hypermodularity - coders.info](https://github.com/coders-info/www/assets/5669657/032940f9-6871-4e5a-8e5e-02728f081d8f)
+
 # [Modular Code by Hypermodularity](https://www.coders.info/)
-
-![hm_color_transparent](https://github.com/coders-info/www/assets/5669657/032940f9-6871-4e5a-8e5e-02728f081d8f)
-
 
 From CLEAN ideas to code SMELLs ... Let's talk about The Pragmatic Development based on [HyperModularity](https://wiki.opensourceecology.org/wiki/Hypermodularity)
 
@@ -100,7 +99,7 @@ That flowchart represents the software development life cycle with its stages an
 
 
 ## Modularity
-![Modularity](https://github.com/coders-info/www/assets/5669657/00426e02-39eb-4b4c-9ec4-0c3426cb608f) 
+
 
 ## Modular OOP
 
