@@ -1,7 +1,9 @@
 # [Modular Code by Hypermodularity](https://www.coders.info/)
 
-From CLEAN ideas to code SMELLs ... Let's talk about The Pragmatic Development based on [HyperModularity](https://wiki.opensourceecology.org/wiki/Hypermodularity)
+![hm_color_transparent](https://github.com/coders-info/www/assets/5669657/032940f9-6871-4e5a-8e5e-02728f081d8f)
 
+
+From CLEAN ideas to code SMELLs ... Let's talk about The Pragmatic Development based on [HyperModularity](https://wiki.opensourceecology.org/wiki/Hypermodularity)
 
 Popular Approach
 + SDLC today
